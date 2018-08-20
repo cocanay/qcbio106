@@ -12,25 +12,43 @@ github-repo: opencuny/qcbio106
 description: ""
 ---
 
-# Prerequisites
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
+# About This Course {-}
 
-The **bookdown** package can be installed from CRAN or Github:
+## What is this? {-}
 
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
+This is a collaboratively written guide for Bio 106: General Biology II at queens college. 
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+### Annotations {-}
 
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
+Notice that there's a little arrow to the side of the screen. Click the arrow and see what happens, or just highlight some text on this page, and you'll notice a little widget comes out that lets you highlight or annotate text. 
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+You'll need to sign up for [hypothesis.is](https://web.hypothes.is) to do this when you're in the side pane. It's an open source tool meant to get people to annotate and peer review the internet, including R Markdown books, and you can use it to suggest small changes to this book or discuss its content/ask questions. This video explains it a bit more. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/deOlFn6q01Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Okay, But Why Should I Contribute to This Book? {-}
+
+
+There are a variety of simple ways one can massively improve their learning outcomes, including [teaching their peers](http://merit.illinois.edu/educators_treisman.html), [collaborative note-taking and file-sharing](https://files.eric.ed.gov/fulltext/EJ1093744.pdf), and [discussing course content online](https://aquila.usm.edu/dissertations/207/) and at [in person study halls](https://eric.ed.gov/?id=ED501250). Contributing to this project involves all four of these things, so it is incredibly likely to improve your academic outcomes.
+
+## Course Team {-}
+<div class="row">
+  <div class="col-md-6">
+  <img src="https://i.imgur.com/OXRXgx9.png" alt="", width = "90%">
+  <caption>Cumulative number of different active ingredients to which resistance has been reported in the Colorado potato beetle ([Whalon et al. 2008](https://www.pesticideresistance.org))</caption>
+  </div>
+  <div class="col-md-6">
+  **Mitchell Baker**
+  
+  [Lab Website](http://biology.qc.cuny.edu/people/faculty/mitchell-baker/)
+  
+  Professor Baker's Lab studies the evolution of insecticide resistance, and specifically how movement and behavior of insects influence this, through things like [Gene Flow](https://evolution.berkeley.edu/evolibrary/article/evo_21).
+  </div>
+</div>
+
+
+
+
+
+

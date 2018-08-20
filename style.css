@@ -12,3 +12,31 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.list-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+
+.list-right{
+  float: right;
+  width: 40%;
+  text-align: left;
+}
+
+.col-md-6 {
+  padding-bottom:20px;
+}
+
+@media screen and (min-width: 700px) {
+  .col-md-6 {
+	width: 50%;
+	float:left;
+	/* font-family: 'Raleway', sans-serif; */
+  }
+}
+
+.caption-html {
+  font-size:.5em;
+}

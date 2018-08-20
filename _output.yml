@@ -7,7 +7,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Queens College Bio 106 Guide</a></li>
+        <li><a href="./">Queens College Bio 106 Notebook</a></li>
       after: |
         <li><a href="https://github.com/opencuny/qcbio106" target="blank">Published with bookdown</a></li>
     edit: https://github.com/opencuny/qcbio106/edit/master/%s
