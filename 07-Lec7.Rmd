@@ -1,0 +1,314 @@
+# Lecture 7: Origin and Diversification of Eukaryotes {-}
+ 
+## Lecture {-}
+
+...
+
+## Ch. 26 Outline {-}
+
+### This is Chapter 27, 27.1-27.4, p. 560-587 (The origin and diversification of the eukaryotes) in the 9th Edition {-}
+
+### Section 26.1: How Did the Eukaryotic Cell Arise? {-}
+
+1.  The diversity of protists is reflected in both morphology and phylogeny
+    1.  Eukaryotes that are not plants, animals or fungi are **protists**. The group of all protists is not monophyletic, so it's not a taxon, it's just a convenient way of saying "all the things that are not plants, animals or fungi".
+    1.  Protists are very different, some move and some don't, some are unicellular (the microbial eukaryotes) but many are multicellular and many are huge.
+1.  Cellular features support the monophyly of eukaryotes
+    1.  Eukaryotes have unique characteristics that distinguish them from prokaryotes, so they all have a common ancestor and are monophyletic.
+    1.  Evolutionary tree of eukaryotes is still disputed.
+1.  The modern eukaryotic cell arose in several steps
+    1.  **Ramifications of a flexible cell surface **
+        1.   Early prokaryotes sometimes lost their cell walls. This allows for several things.
+        1.   Cell size can be increased, because the increase in volume associated with growth can be overcome by increase in surface area due to infolding of the now flexible plasma membrane
+        1.   The flexible cell surface can also pinch off bits of the environment, bringing these bits into the cell by endocytosis.
+    1.  **Changes in cell structure and function**
+        1.  ** **The emergence of ribosome studded internal membranes, some of which surround DNA, allowed for more protein synthesis.
+        1.   The appearance of a cytoskeleton allowed the cell to be supported and manage changes in shape. Also allows movement of materials. Microtubules could have evolved into flagellum. Distributes daughter chromosomes.
+        1.   DNA of a prokaryotes is attached to the plasma membrane. If that part of the membrane folded in that could form a nucleus.
+        1.   Early eukaryotes may have developed a Golgi and ER.
+        1.   Evolution of digestive vacuoles happened early.
+    1.  **Endosymbiosis and organelles **
+        1.  ** **Early eukaryote consumed a proteobacterium. Likely early function was to detoxify O2 by turning it into H2O. Later on this reduction could have become coupled with formation of ATP in cellular respiration. This gave us the modern eukaryotic cell.
+        1.   However some eukaryotes are the result of another step, the consumption of a cyanobacterium to make a chloroplast.
+1.  Chloroplasts are a study in endosymbiosis
+    1.  Not all chloroplasts have a pair of surrounding membranes, and in some eukaryotes are surrounded by three or more membranes. These are the result of a series of endosymbiotic events.
+    1.  **Primary endosymbiosis **was the consumption by one early eukaryote of a cyanobacterium. The bacterium had both an inner and outer membrane, thus this new chloroplast had **two** membranes. Glaucophytes are the first eukaryote group to branch off after primary endosymbiosis of a cyanobacterium.
+        1.  ** **Gave rise to the chloroplasts of the **red algae **and the **green algae**. Photosynthetic land plants had a green algal common ancestor.
+    1.  **Secondary endosymbiosis **was the taking up of a chlorophyte (eukaryote that had a chloroplast) by another eukaryote. The other parts of the chlorophyte were dissolved and only the membrane remained, leaving **three membranes **for the chloroplast. **Euglenids **evolved from this.
+    1.  **Tertiary endosymbiosis **occurred when a eukaryote lost its chloroplast and ate a **haptophyte **(a product of secondary endosymbiosis). The haptophyte having 3 membranes already, this resulted in **four membranes **for the chloroplasts. **Dinoflagellates **evolved from this.
+1.  Lateral gene transfer accounts for the presence of some prokaryotic genes in eukaryotes
+    1.  We should have some bacterial genes that regulate energy metabolism (respiration and photosynthesis) because we took up bacteria to act as energy produces which gave us some of their genes.
+    1.  But this doesn't account for other bacterial genes we have. One hypothesis to explain this is that Eukarya came from the symbiotic fusion of a Gram-negative bacteria and an archaeon
+
+### Section 26.2: What Features Account for Protist Diversity? {-}
+
+1.  Protists occupy many different niches
+    1.  Some protists are plankton, free floaters in the water. Others (slime molds) inhabit damn soil. Other protists in soil contribute to the nitrogen cycle by eting soil bacteria and recycling their nitrogen compounds into nitrates.
+    1.  Some are photoautotrophs, some are heterotrophs and some switch with ease between these. Some ingest food but others absorb food like fungi.
+    1.  Two groups are used to distinguish protists: 
+        1.   **Protozoans **ingest other species.
+        1.   **Algae **are photosynthetic protists.
+1.  Protists have diverse means of locomotion
+    1.  In **ameboid motion **the cell forms **pseudopods **which the cell can push into. The cytoskeleton has tubules which make parts of the cell liquid and parts firm. Can use firm part to squeeze liquid part forward.
+    1.  **Cilia **are tiny hairs that beat in coordination to move the cell forward and back. Can change direction quickly.
+    1.  **Flagella **move like whips. Some push and some pull the organism forward.
+    1.  Both cilia and flagella have a 9+2 microtubule structure.
+1.  Protists employ vacuoles in several ways
+    1.  Protists use **vacuoles **to increase their surface area.
+    1.  Protists in fresh water are hypertonic to their environment, **paramecium** addresses this problem with a **contractile vacuole **that collects the excess water and shoots it out of the cell.
+    1.  Paramecium also have a **digestive vacuole **formed by a engulfing an organism and it pinching off the membrane. Smaller vesicles shuttle the products of digestion to different parts of the cell.
+1.  The cell surfaces of protists are diverse
+    1.  Some protists have cell walls. Those without them have other ways to strengthen their surface.
+    1.  Paramecium has proteins that make it flexible but resilient. 
+    1.  Other groups have shells made from bits of sand or compounds produced by the cell.
+    1.  Cell walls of diatoms are glassy, based on silica.
+
+### Section 26.3: How Do Protists Affect the World Around Them? {-}
+
+1.  Some protists are endosymbionts
+    1.  Diatoms produce 1/5 of all photosynthetic carbon. They are **phytoplankton**. Heterotrophs depend on their photosynthesis.
+    1.  **Dinoflagellates **are frequently symbionts with animals and other protists. Usually photosynthetic, but some are not. Provide food to coral. When they die as a result of changing environment, the coral is damaged by lack of food, this is called **coral bleaching**.
+    1.  **Radiolarans** harbors photosynthetic endosymbiotic protists.
+1.  Some microbial protists are deadly
+    1.  Members of the genus **plasmodium **are **apicomplexans**. **Apicomplexans **are a group of protists with an "apical complex", or tip, which they use to inject into tissue.
+    1.  These are parasitic and cause malaria. Kills about 500,000 children a year and 250 million individuals get infected a year.
+    1.  Life cycle of malaria is on powerpoint for lecture 7.
+    1.  Anopheles mosquito has plasmodium in its salivary glands. When mosquito bites, the parasites go to the liver and the lymphatic system. They change form and multiply
+    1.  They then reenter the blood, attacking red blood cells.
+    1.  The parasites multiply inside the red blood cells which burst releasing new ones. If another mosquito bites the victim it takes in these cells along with gametes of the plasmodium that formed in human cells. These gametes unite to form zygotes that lodge in the mosquito gut.
+    1.  They divide several times and move to the salivary glands.
+    1.  Some **kinetoplastids **are human pathogens, such as trypanosomes. These cause **sleeping sickness **(see powerpoint on this), leishmaniasis, and Chagas disease. 
+    1.  Some **chromalveolates**, including diatoms, dinoflagellates, and haptophytes, reproduce in enormous numbers in warm and stagnant waters. The result is a **"red tide" **because of the red pigments. These produce potent nerve toxin that kills fish. 
+    1.  The haptophyte **Emiliania huxleyi **is a **coccilithophore **(sphere of stone) which has an aromored coating that makes water more reflective, cooling water below.
+1.  We continue to rely on the products of ancient marine protists
+    1.  **Diatoms **store **oil **and provide us with petroleum and natural gas.
+    1.  **Foraminiferans** secretes **calcium carbonate**. These make limestone deposits and sand.
+    1.  Each geological period has a different layer of foraminiferan shells, allowing for dating. Analysis of shells is useful for oil prospecting and determining global temperatures in different eras.
+
+### Section 26.4: How Do Protists Reproduce? {-}
+
+1.  Introduction
+    1.  Asexual reproductive processes in protists include:
+        1.   **Binary fission**: equal splitting of one cell in two, with mitosis followed by cytokinesis
+        1.   **Multiple fission:** splitting of one cell into multiple (more than two) cells.
+        1.   **Budding: **the outgrowth of a new cell from the surface of an old one.
+        1.   **Spores: **the formation of specialized cells that are capable of developing into new organisms
+    1.  Sexual reproduction also occurs. In some the gametes are the only haploid cells diploid dominant). In others the zygote is the only diploid cells (haploid dominant). In yet others, both diploid and haploid cells do mitosis, giving rise to **alteration of generations **(alternation of multicellular diploid and haploid life stages).
+1.  Some protists have reproduction without sex and sex without reproduction
+    1.  Paramecium are **ciliates.** These protists have a macronucleus and a micronucleus. 
+    1.  Micronuclei are like regular nuclei, and macronuclei carry copies of genetic information packaged in small units. Macronuclear DNA regulates the life of the cell.
+    1.  Paramecia also do **conjugation:**
+        1.  ** **Two paramecia fuse at the groove, all diploid micronuclei except one in each cell disintegrate.
+        1.   The remaining micronucleus undergoes meiosis to produce 4 haploid micronuclei.
+        1.   3 of the 4 haploid micronuclei dissolve, leaving one in each cell.
+        1.   The remaining haploid micronucleus undergoes mitosis to produce another haploid micronucleus. One copy from each cell swaps.
+        1.   The macronuclei dissolve, and the haploid micronucleus fuses with the transferred one in each cell to produce a diploid micronucleus.
+        1.   By mitosis this micronucleus replicates, producing a macronucleus and leaving one micronucleus.
+    1.  This is a **sexual **process but it is **not **reproductive. No new cells are made. Conjugation is necessary for the clones to live through cell divisions.
+1.  Some protest life cycles feature alternation of generations
+    1.  An **alteration of generations **life cycle has a multicellular spore producing organism  give rise to a multicellular haploid gamete producing organism. 
+    1.  When two haploid gametes fuse (syngamy) a diploid organism is formed. 
+    1.  Both the diploid and haploid organisms can undergo mini-lifecycles of asexual reproduction.
+    1.  In **heteromorphic **alternation, the two generations differ morphologically (in shape and other traits). In **isomorphic **alteration, they don't, despite the genetic difference.
+    1.  The diploid generation is the **sporophyte **organism, and the haploid is the **gametophyte **generation.
+    1.  Gametes are not produced by meiosis because the gametophyte is already haploid. Instead cells of the diploid sporophyte called **sporocytes **divide meiotically to produce 4 haploid spores. These spores divide mitotically to produce multicellular haploid gametophytes which then produce gametes.
+    1.  Gametes must fuse to produce a diploid zygote.
+1.  Chlorophytes provide examples of several life cycles
+    1.  **Ulva **or **sea lettuce **has an isomorphic life cycle. A female gamete can grow into a gametophyte individual again, which is identical to the diploid sporophyte in size and shape.
+        1.  ** **Ulva gametes are the same looking, they are **isogamous**. When one gamete is larger than the other they are **anisogamous**.
+    1.  **Ectocarpus **also has an isomorphic life cycle, where asexual reproduction can occur in both the gametophyte and sporophyte generations. 
+    1.  As opposed to alteration of generations, some chlorophytes have a **haplontic **life cycle, in which a multicellular haploid individual produces gametes that fuse to form a zygote. The zygote acts directly as a sporocyte. Only one cell is diploid in this life cycle. 
+        1.  ** Ulothrix **has a haplontic, heteromorphic life cycle. Filamentous generation is dominant.
+    1.  Other chlorophytes have **diplontic **life cycles. In a diplontic life cycle, meiosis of diploid sporocytes produces haploid gametes directly, the gametes fuse, and the diploid zygote divides mitotically to form a new sporophyte. All cells except the gamete are diploid, so diploid is dominant. 
+        1.  **Laminaria **has a diplontic life cycle (with anisogamous gametes).
+        1.  **Fucus (brown algae)** also has one where small chambers called conceptacles which contain oogonia (egg producing) and antheridia (sperm producing) form the gametangia. Haploid gametophyte generation is **parasitic **on the sporophyte (lives in its conceptacles).
+1.  The life cycles of some protists require more than one host species.
+    1.  In Malaria, the human acts as a copying machine for the products of sexual reproduction in the insect host.
+
+### Section 26.5: What Are the Evolutionary Relationships among Eukaryotes? MOST IMPORTANT {-}
+
+### Chromalveolates {-}
+
+1.  These include the alveolates, haptophytes (not gonna talk about these), and stramenophiles.
+1.  Alveolates have sacs under their plasma membrane
+    1.  The synapomorphy that alveolate clade has is the possession of aveoli.
+    1.  Groups are dinoflagellates, apicomplexans and ciliates.
+    1.  **Dinoflagellates **
+        1.   Mostly marine
+        1.   Some are photosynthetic endosymbionts (living in corals). Include **zooanthellae**.
+        1.   Some are nonphotosynthetic and parasitic.
+        1.   Unicellular and generally have two flagella, one in an equatorial groove around the cell, the other in a longitudinal groove.
+        1.   **Pfiesteria Piscicida **can take on many forms and has a complex life cycle. Produces neurotoxins. 
+        1.   Some have camera type eyes (Warnowild), as do other protists.
+    1.  **Apicomplexans **are exclusively parasitic. 
+        1.  ** **Name refers to complex at tip that is used to invade.
+        1.   Asexual and sexual stages to life cycle and amoeboid bodies.
+        1.   Malarial life cycle:
+            1.  After the mosquito ingests blood, male and female gametocytes develop into gametes that fuse.
+            1.  The zygote (only diploid stage in life cycle) enters gut and forms cyst
+            1.  In the cyst sporozoites are formed. They invade the salivary gland.
+            1.  Mosquito injects sporozoites into human
+            1.  They penetrate liver cells and become merozoites. These can reinfect the liver to make new ones.
+            1.  Also invade red blood cells, forming a ring stage, which then forms a trophozoite form. This form makes its own proteins that attach to the membrane, making the blood cells stick to blood vessels and causes disease. 
+            1.  48 hours after infection the trophozoites become schizonts and the blood cell lyses releasing 12-16 merozoites repeating the cycle.
+            1.  Some merozoites turn into male and female gametocytes.
+            1.  Feeding mosquito ingests the gametocytes. Cycle repeats.
+        1.   **Toxoplasma **alternates between cats and rats.
+        1.   Apicomplexans lack contractile vacuoles, contain a non-functional chloroplast.
+    1.  **Ciliates **are mostly heterotrophic. They have two nuclei.
+        1.  ** **Contain 1-1000 macronuclei.
+        1.   1-80 micronuclei.
+        1.   Paramecia have **trichocysts **that shoot out as darts for defense.
+        1.   Structurally sophisticated ciliates include:
+            1.  Stentor
+            1.  Titinopsis (house builder)
+            1.  Entodiniomorphs living in cattle.
+        1.   Didinium attack and eat paramecia.
+1.  **Stramenophiles **have two unequal flagella, one with hairs
+    1.  Include the **diatoms **and **brown algae** which are **photosynthetic**
+    1.  Also **oomycetes **and **slime nets **which are not (are like fungi).
+    1.  Photosynthetic ones can become heterotrophic in the dark.
+    1.  **Diatoms **are unicellular 
+        1.  ** **Contain **carotenoids **giving **golden brown** color.
+        1.   All make carbohydrate **chrysolaminarin** and **oils** as photosynthetic products.
+        1.   Have **silica-impregnated frustules (overlapping walls)** that have beautiful **radial or bilateral symmetry**. 
+        1.  ** Major photosynthesizers.**
+        1.   Two pieces of cell wall, top overlaps the bottom.
+            1.  Asexual reproduction by **binary fission** is constrained by this wall.
+            1.  Top and bottom plates come apart and become the tops and bottoms of a new cell. New cell is smaller than old cell.
+            1.  When cell gets two small, produces gametes that fuse to become a larger diploid, going into sexual life cycle.
+        1.   Form diatomaceous earth at sea floor which has industrial uses.
+        1.   Important CO2 consumers. Remove half the CO2 from atmosphere.
+    1.  **Brown algae **get their color from carotenoid **fucoxanthin **along with **chlorophyll**.
+        1.  ** **All are **multicellular**
+        1.   Branched filaments or leaflike growths called **thali**. Which can have **differentiated tissues **such as food conducting filaments.
+        1.  Grow attached to a "holdfast" and often have air bladders to float.
+        1.   **Diplontic **life cycles with alternation of generations (dominant sporophyte generation).
+        1.   **Gigantic (>100m) **
+        1.   Used to make agar.
+        1.   **Sargassum **is a genus with two asexual species that form free-floating masses of Sargasso sea.
+        1.   **Laminaria **has a dominant sporophyte generation, gametophytes are tiny and free living.
+    1.  **Oomycetes (water molds) **are aquatic terrestrial absorbers (heterotrophs).
+        1.  ** Filamentous, coenocytic with no cross walls (septa) to separate many nuclei into distinct cells. Cytoplasm is continuous.**
+        1.   Different from fungi because cell walls made of **cellulose** not chitin.
+        1.   Reproductive cells are flagellated.
+        1.   **Phytophthora infestans **caused the potato famine.
+        1.   Mostly diploid life cycle. 
+        1.   Parasitic (saprobic: feed on the dead).
+        1.   Lack chloroplasts.
+
+### Plantae {-}
+
+1.  **Glaucophytes **were the first to diverge after the primary endosymbiosis event that gave rise to the red algae, glaucophytes, chlorophytes, charophytes and land plants. Glaucophytes have peptidoglycan, which has been lost in all other plantae.
+1.  **Red algae** have a distinctive accessory photosynthetic pigment
+    1.  All red algae are **multicellular**
+    1.  **edible**
+    1.  Color is a result of **phycoerythrin**, as well as phycocyanin, carotenoids and chlorophyll.
+    1.  Found in deep waters (260 meters). (absorbs blue light that penetrates deep)
+    1.  Two distinguishing characteristics 
+        1.   Store products of photosynthesis as **floridean starch **which is made of 15 glucose molecules.
+        1.   Produce no motile, flagellated cells at any stage. Male gametes lack cell walls and are amoeboid, females are completely immobile.
+    1.  Produce **calcium carbonate**
+    1.  Chloroplasts of photosynthetic chromalveolates are derived from secondary endosymbiosis of red algae.
+1.  Chlorophytes, charophytes and land plants contain chlorophylls a and b
+    1.  **Chlorophytes (green algae) **contain two multicellular lineages, **chlorophyta **and **charophyta**. Charophyta has other green algae and the **plant kingdom**.
+    1.  Have **chloroplast lamellae** (act like thylakoids).
+    1.  Isogamy and anisogamy
+        1.   Isogamy
+            1.  Two identical motile cells.
+            1.  Two identical non motile cells
+            1.  Conjugation
+        1.   Anisogamy
+            1.  Anisogamy (motile large egg, non-motile sperm)
+            1.  Oogamy (non-motile large egg, motile sperm)
+            1.  Anisogamy (nonmotile large edd and nonmotile sperm, as in flowers).
+    1.  Store photosynthetic products as starch in plastids.
+    1.  Chlorophyte became chloroplast of euglenids through secondary endosymbiosis.
+    1.  17000 species.
+    1.  Chlamydomonas is unicellular and flagellated. Displays colonial behavior.
+    1.  **Volvocine line of evolution** is a theory of how we got multicellular organisms. 
+        1.  ** **Individual chlamydomonas cells gather to become sheets of 16-64 undifferentiated cells.
+        1.   Then become spherical with 50% somatic cells and 50% larger reproductive cells (differentiation).
+        1.   Spheres grow up to 50,000 cells, **volvox aureus**.
+    1.  **Oedogonium **is multicellular and filamentous colony.
+    1.  **Spirogyra **is also filamentous, sexually reproduces by forming conjugation tubes between adjacent filaments
+        1.  ** **- strain cells pass into those of the + strain (female). Zygote with thick zygospore forms.
+        1.   Meiosis occurs during germination of zygospore.
+    1.  **Ulva **we discussed before, alteration of generations, isomorphic.
+    1.  **Charophytes **include **stoneworts**, the most complex green alga.
+        1.  **Multicellular **
+        1.  Secrete **calcium carbonate**.
+        1.  Forms branch pattern with multinucleate stem regions and single nucleus nodal regions.
+        1.  Phargmoplast form of cell division is inherited by plants.
+
+### Excavates {-}
+
+1.  Diplomonads and parabasalids are excavates that lack mitochondria
+    1.  All **unicellular**
+    1.  Lack mitochondria (have a reduced mitochondria, mitosome), but ancestors had mitochondria, thus they **lost** it in evolution.
+    1.  **Giarda labia** is parasitic and causes "hiker's diarrhea". Has two haploid nuclei, multiple flagella.
+    1.  Diplomonads are anaerobic, reproduce by binary fission.
+    1.  In blood, diplomonads are pear shaped when not bound to red blood cells.
+    1.  **Parabasalids **have flagella attached to undulating membrane.
+    1.  **Trichomonas vaginalis **is parasite of the vagina, 160-170 million cases.
+    1.  Symptomatic in females but not in males.
+    1.  Do not undergo meiosis but have the genes to do it. (ancestors did).
+    1.  Symbiotic with termite, where they work with bacteria to digest wood. Termites eat feces completing the cycle.
+1.  Euglenids and kinetoplastids have distinctive mitochondria and flagella
+    1.  Constitute a clade of flagellates.
+    1.  **Euglenids **are unicellular and free-living, with anterior flagellum and non-working secondary flagellum. 
+        1.  ** **Are fought over by botanists and zoologists wanting to class them as plants or animals respectively.
+        1.   In **euglena gracilus **carbohydrates are stored as **paramylon**, unique polysaccharide. Has photoreceptor stigma.
+        1.   Undergoes special mitosis:
+            1.  Centriole divides
+            1.  Centriole produces new basal body and flagellum, nucleus prophase and contractile vacuole divides.
+            1.  Flagellar roots separate
+            1.  Mitosis proceeds and gullet divides
+            1.  Anterior end divides and organelles duplicate
+    1.  **Kinetoplastids **are unicellular parasites with **two flagella** and a single **large mitochondrion**.
+        1.  ** **Mitochondrian contains **kinetoplast**, a unique structure housing **multiple circular DNA** molecules. Some **encode guides that edit mRNA in mitochondrion**.
+        1.   **Trypanosomes **fool host's immune system **by altering surface proteins** each generation.
+        1.   **T. brucei gambiense** causes African sleeping sickness. Breaks through blood-brain barrier.
+
+### Rhizaria {-}
+
+1.  Include Foraminiferans, radiolarians, and cercozoans with **long, thin pseudopodia**. 
+1.  **Cercozoans** are diverse, some are aquatic, some live in soil. One group has chloroplasts derived from green alga by secondary endosymbiosis, which contains a trace of that alga's nucleus.
+1.  **Foraminiferans **have created vast limestone deposits
+    1.  Have proteinaceous cells hardened with calcium carbonate. 
+    1.  Have cytoplasmic projections which shoot out to catch food.
+1.  **Radiolarians **(and heliozoans) have thin, stiff pseudopods
+    1.  Their pseudopods:
+        1.   Greatly increase their surface area for exchange of materials with environment
+        1.   Help cells float in the water.
+    1.  Have distinctive **radial symmetry**. Are spherical if floating in water because that is the most efficient way to live in a 3d environment. 
+    1.  Bottom dwelling radiolarians have symmetry at the top only because that is the only part exposed to water.
+
+### Unikonts {-}
+
+1.  One flagellum (bikonts have two flagella, all other eukaryotes are bikonts).
+1.  Two major groups: ophistokonts and amoebozoans.
+1.  Synapomorphy of ophistokonts is a posterior flagellum (all other eukaryotes have anterior flagellum). Include choanoflagellates, animals and fungi.
+    1.  "Collar cells" are typical of choanoflagellates.
+    1.  Are colonial rather than truly multicellular.
+    1.  **Pelomyxa palustris **is a multi-nucleate (hundreds of nuclei) amoeba lacking mitochondria that does not undergo fission. Are descended from organism with mitochondria that lost them. Contain symbiotic bacteria that act like mitochondria.
+1.  Amoebozoans use lobe-shaped pseudopods for locomotion
+    1.  **Lobeseans **consist of single cells. Do not aggregate.
+        1.  **Mastigoamoeba **has flagellated ancestor, pseudopod locomotion is derived.
+        1.   Feeds on small organisms and organic matter.
+    1.  **Slime molds **have two major groups, plasmodial and cellular. All groups have **fruiting bodies**, spore-forming bulbs on the top of stalks. Favor **cool, moist habitats**. May have been first multicellular organisms.
+        1.  ** Plasmodial slime molds** have many nuclei but only one cell wall during plasmodial stage (about 1000 species described). Plasmodial stage of life cycle is the basic, feeding, non-reproductive part.
+            1.  **Myxomyosin** interacts with microfilaments to produce streaming movement in plasmodium stage.
+            1.  **Eats bacteria and decaying remains**.
+            1.  If conditions are bad, plasmodium forms an irregular mass of harden components called **sclerotium**.
+            1.  Alternately transforms itself into **spore-bearing fruiting structures. **
+            1.  Spore bearing bulb is **sporangium**.
+            1.  Gametes are called **swarm cells.**
+            1.  Includes **fuligo septica**, dog vomit slime mold.
+        1.  ** Cellular slime molds **spend most time as individual amoeba, then have a plasmodial stage as a reproductive stage. About 70 species described.
+            1.  Normally live in colonies of independent cells called **myxamoebas** when conditions are favorable.
+            1.  When conditions are unfavorable, slime molds aggregate to form fruiting structures. Individual myxamoebas come together to form a **slug** or **pseudoplasmodium**. Is not coenocytic. Cells retain their plasma membranes.
+            1.  Have been shown to **farm **bacteria by carrying them with them in their spores.
+            1.  Evolutionary question, why do the cells in the stalk and the base form in the fruiting body? Their genes won't be passed on as they are not in the sporangium.
+
+## Reading and Lecture Summary {-}

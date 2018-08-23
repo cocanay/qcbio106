@@ -1,0 +1,203 @@
+# Lecture 6: Bacteria, Archaea, and Viruse {-}
+ 
+## Lecture  {-}
+
+...
+
+## Ch. 25 Outline {-}
+
+### (This is Chapter 26 in the 9th Edition) {-}
+
+### Section 25.1: How Did the Living World Begin to Diversify? {-}
+
+1.  Introduction
+    1.  We are similar to bacteria and archaea in many ways, all three of us:
+        1.   Conduct glycolysis
+        1.   Use DNA as the genetic material that encodes proteins
+        1.   Produce those proteins by transcription and translation using a similar genetic code
+        1.   Replicate DNA semiconservatively
+        1.   Have plasma membranes and ribosomes in abundance
+    1.  Similarities in genes confirm that life has a common origin.
+    1.  There is no objective notion of a domain, but it's used to represent the largest groups of life.
+1.  The three domains differ in significant ways
+    1.  Prokaryotic cells differ from eukaryotic cells in three important ways:
+        1.  ** Prokaryotic cells lack a cytoskeleton and a nucleus, so they do not divide by mitosis**. Instead, after replicating their DNA, prokaryotic cells divide by **binary fission**.
+        1.   **The organization of the genetic material differs **in the sense that the DNA of the prokaryote is not inside a membrane. DNA is also often circular. Many prokaryotes have **one** main chromosome and are basically haploid, although many have additional DNA in **plasmids**.
+        1.   **Prokaryotes have none of the membrane enclosed organelles – mitochondria, Golgi, and others – that are found in most eukaryotes.** However, the cytoplasm of a prokaryote can contain infoldings of the plasma membrane and photosynthetic membrane systems not found in eukaryotes.
+    1.  Bacteria and Archaea also differ from each other. Bacteria have peptidoglycan in cell wall, have unbranched membrane lipids, and different sensitivity to toxins. Archaea's RNA polymerase is more similar to eukaryote's than bacteria's.
+    1.  There are two theories of the origins of eukaryotes:
+        1.   One view is that an archaeon ate a bacterium and this became the first eukaryotic cell. 
+        1.   Another view is that the divergence of the eukaryotes from the archaea happened before the endosymbiosis with bacteria.
+    1.  Both views think eukaryotes are most related to archaea.
+    1.  The common ancestor of all three domains had DNA, RNA, and proteins. It likely had a circular chromosome.
+    1.  Three shapes are common in bacteria:
+        1.   Spheres (**cocci**)
+            1.  may live singly or may associate with other cells as chains, plates, blocks, or clusters.
+        1.   Rods (**bacilli**)
+        1.   Spirals (**helix**) is the third shape.
+    1.  Bacilli and helices can be single, form chains or gather in clusters.
+    1.  Other rarer shapes include long filaments and branched filaments.
+    1.  Archaea can have these shapes, along with triangular or square shapes, which are arranged like sheets of stamps on surfaces.
+    1.  Earliest prokaryotes date to 3.5 billion years (maybe 3.7 billion with new discovery mentioned in class).
+
+### Section 25.2: What Are Some Keys to the Success of Prokaryotes? {-}
+
+
+
+1.  Prokaryotes generally form complex communities
+    1.  The bacteria living in your intestines outnumber the number of humans who have ever lived.
+    1.  Many prokaryotes form multicellular colonies by associating with each other in chains called **filaments**. 
+    1.  Prokaryotes live in communities with microbial eukaryotes. Some are harmful and some are helpful to humans.
+    1.  Microbial communities can form **biofilms **with a polysaccharide gel matrix enclosing them. Hard for drugs to penetrate and the immune system to attack.
+    1.  **Stromatolites **are made of alternating layers of fossilized biofilm and calcium carbonate. They are the oldest remnants of life on earth.
+    1.  Researchers are seeing if they can block the signals bacteria send each other in biofilms to keep them from forming.
+1.  Prokaryotes have distinctive cell walls
+    1.  Cell walls of almost all bacteria contain **peptidoglycan** (instead of cellulose like plants or chitin like fungi). 
+    1.  Archaea don't, but some have **pseudopeptidoglycan **which has different monomers and linkages.
+    1.  **Gram stain **allows the separation of bacteria into two groups, **Gram-positive **and **Gram-negative**. 
+        1.  ** **Smear of cells on a slide is soaked in a violet dye and treated with iodine. 
+        1.   It's then washed with alcohol and stained with red dye (safranine). 
+        1.   **Gram-positive **bacteria retain the dye and appear blue/purple.
+        1.   **Gram-negative **bacteria appear pink/red because the alcohol washes the iodine out of them and leaves the red dye.
+    1.  The iodine washes out in gram-negative bacteria because they have a thin peptidoglycan layer between two plasma membranes, not allowing them to retain the iodine.
+    1.  Iodine stays in gram-positives because the peptidoglycan wall is thick and they don't have an outer membrane. The iodine gets stuck in the wall.
+    1.  Drugs target cell walls because humans have no cell walls.
+1.  Prokaryotes have distinctive modes of locomotion
+    1.  Some helical bacteria (**spirochetes**) use a corkscrew motion due to modified flagella called **axial filaments** to move.
+    1.  Cyanobacteria have poorly understood gliding movements, including rolling.
+    1.  Some aquatic prokaryotes use **gas vesicles **to move up and down.
+    1.  Prokaryotic **flagella **are the most common methods of locomotion. These are slender filaments consisting of a single fibril of **flagellin** protein hooked to a basal body responsible for the motion. 
+    1.  Prokaryotic flagella do not have microtubules like in eukaryotes, and they rotate like a propeller instead of using whip-like motion like in eukaryotes.
+1.  Prokaryotes reproduce axesually, but genetic recombination can occur
+    1.  Prokaryotes reproduce by **binary fission**, but **transformation, conjugation and transduction **allow gene transfer without reproduction. So bacteria can have sex without reproducing. 
+    1.  Bacteria multiply very fast, but bacteria living in the earth's crust suspend reproduction for long periods, then multiply for a few days before suspending growth again.
+1.  Prokaryotes can communicate
+    1.  Bacteria can use chemicals to communicate. **Quorum sensing **is the release of certain chemicals when a particular region of bacteria gets very dense. When bacteria sense they have become dense enough they can form a biofilm.
+    1.  ATP processes in some bacteria can produce light. This is **bioluminescence **which is mediated by **quorum sensing**. Fish use these bacteria to attract prey.
+    1.  **Vibrio **is a species of bacteria that uses bioluminescence to attract fish so it can live in their guts. They sometimes concentrate over such a large area that they can be seen from space.
+1.  Prokaryotes have amazingly diverse metabolic pathways
+    1.  Prokaryotes have evolved to adapt in various environments (with or without oxygen, with different carbon sources, etc.) 
+    1.  **Anaerobic versus aerobic metabolism**: 
+        1.  ** Obligate anaerobes **can only have anaerobic metabolisms because oxygen is poisonous to them. 
+        1.  ** Facultative anaerobes **can shift between using oxygen metabolism or anaerobic metabolism.
+        1.  ** Aerotolerant anaerobes **cannot do cellular respiration but are not damaged by oxygen when it is present.
+        1.  ** Obligate aerobes **require oxygen for cellular respiration, cannot metabolize anything else.
+    1.  **Nutritional categories: **all living things must obtain carbon and synthesize ATP (get energy). Biologists group organisms that do these in different ways into four nutritional categories. Prokaryotes fit into all four groups:
+        1.  ** Photoautotrophs **perform photosynthesis. They use light for energy (ATP) and CO2 for carbon. Cyanobacteria use chlorophyll like plants and produce O2, and other bacteria use **bacteriochlorophyll** and do not release O2. Instead they release pure sulfur (because they use H2S rather than H2O as electron donor). These bacteria can form under algae because bacteriochlorophyll absorbs light of longer wavelengths than chlorophyll (which penetrates deeper in water). 
+        1.  ** Photoheterotrophs **use light for energy but obtain carbon from organic compounds made by other oragnisms. Their food is organic compounds. Sunlight provides the ATP for photophosphorylation in its metabolism. Purple nonsulfur bacteria are one example.
+        1.  ** Chemolithotrophs** or **chemoautotrophs **oxidize inorganic substances for energy, and use that energy to get CO2 and use it for carbon. Many archaea are chemolithotrophs. Deep-sea vents depend on chemolithotrophic prokaryotes that get energy by oxidizing hydrogen sulfide from the vents.
+        1.  ** Chemoheterotrophs **obtain energy and carbon from organic compounds synthesized by other organisms. Most known prokaryotes and all animals and fungi are chemoheterotrophs.
+    1.  **Nitrogen and sulfur metabolism: **Key metabolic reactions in many prokaryotes involve nitrogen or sulfur. Many bacteria carry out respiratory electron transport without using oxygen as an electron acceptor. They use oxidized inorganic ions instead. **Denitrifiers **use nitrate (NO3-) to do this, which releases nitrogen gas (N2) into the atmosphere.
+        1.  ** Nitrogen fixers **convert this gas into ammonia for other organisms and themselves, which require nitrogen to build proteins. Only bacteria and archaea are nitrogen fixing, so we depend on them.
+        1.  ** **Ammonia is oxidized to nitrate in soil by **nitrifiers**. Energy from ammonia can be used to make ATP in an electron transport chain.
+        1.   This completes the nitrogen cycle of the earth.
+
+### Section 25.3: How Can We Resolve Prokaryote Phylogeny? {-}
+
+1.  The small size of prokaryotes has hindered our study of their phylogeny
+    1.  Microscopes can only show basic features of prokaryotes
+    1.  For this reason biologists have used shape, color, motility, nutritional requirements, antibiotic sensitivity, and gram-stain color to classify prokaryotes.
+    1.  The prokaryotes studied modeled only less than 1 percent of all species.
+    1.  Only recently have biologists developed the tools to produce classification schemes that make sense in evolutionary terms.
+1.  The nucleotide sequences of prokaryotes reveal their evolutionary relationships
+    1.  Analysis of rRNA (ribosomal RNA) genes helped relate prokaryotes evolutionarily. rRNA is useful for evolutionary studies because:
+        1.   rRNA is evolutionarily ancient, was found in first common ancestor of life.
+        1.   No free-living organism lacks rRNA
+        1.   rRNA plays critical role in translation, so lateral transfer of rRNA genes among distantly related species is unlikely
+        1.   rRNA has evolved slowly enough that gene sequences can be aligned among even distantly related species
+    1.  Even distantly related prokaryotes sometimes exchange DNA though. This allows for several possible trees.
+1.  Lateral gene transfer can lead to discordant gene trees
+    1.  Lateral gene transfer misleads us about evolutionary relationships. For example, Thermotoga maritima is a bacterium that can survive extremely high temperatures. When looking at the genes researchers found that these bacteria had some genes that were closely related to archaea from where they were found, but those archaea are only distant evolutionary relatives.
+    1.  Two strategies against this: 
+        1.   Biologists compare multiple genes between organisms (to produce a consensus tree to see which have the most overlap).
+        1.   Biologists look at genes that are unlikely to be involved in lateral gene transfer. Genes that code for rRNA for example are unlikely to be transferred because the bacteria to get them transferred to already has working genes that do the job.
+    1.  Most likely genes to be involved in lateral gene transfer are ones that result in new adapative functions for the recipient.
+    1.  Genomics work has revealed a **stable core **of crucial genes that are unaffected by lateral gene transfer. Gene trees based on this core can accurately model prokaryotic phylogeny. 
+    1.  The problem remains that most prokaryotes have never been studied.
+1.  The great majority of prokaryote species have never been studied
+    1.  Isolating rRNA gene sequences from extracts of samples of soil and seawater reveals sequences that have never been seen before. This suggests there are millions, possibly hundreds of millions, of species of prokaryotes.
+
+### Section 25.4 What Are the Major Known Groups of Prokaryotes {-}
+
+1.  **Spirochetes** move by means of axial filaments.
+    1.  **Axial filaments **are modified flagella running through the periplasmic space.
+    1.  Protein motors connect the axial filaments to the cell wall, enabling rotation of these structures for movement.
+    1.  Include syphilis and Lyme disease 
+    1.  Believed to have evolved into flagella of eukaryotes by endosymbiosis.
+1.  Chlamydias are extremely small parasites
+    1.  Smallest bacteria (.2-1.5 micrometers in diameter). 
+    1.  **Parasitic.** Get ATP from host using translocase.
+    1.  **Spherical **(cocci).
+    1.  **Gram-negative**
+    1.  C. trachomitis is the most common cause of blindness in the world
+1.  Some high-GC Gram-positives are valuable sources of antibiotics
+    1.  High ratio of GC to AT base pairs. 
+    1.  Also known as actinobacteria because of filaments that branch out and reproduce with spores (in some species). In species without spores, the cell breaks up into cocci or bacilli, which then reproduce by binary fission.
+    1.  Include tuberculosis 
+    1.  Streptomyces produces **streptomycin, **an antibiotic, as well as hundreds of other antibiotics.
+1.  Cyanobacteria are important photoautotrophs
+    1.  Sometimes called **blue-green bacteria**. 
+    1.  Have **thylakoid lamellae. **Infoldings of the plasma membrane that allow photosynthesis. Precursor to plastids found in eukaryotes.
+    1.  Require only water, nitrogen, O2, light and carbon dioxide to survive. Use chlorophyll a for photosynthesis
+    1.  Caused the oxygen in the earth's atmosphere.
+    1.  Can live as single cells or colonies.
+    1.  Some filamentous colonies of cyanobacteria differentiate into three types:
+        1.   **Vegetative cells **photosynthesize
+        1.   **Spores **are resting stages that survive harsh environments and develop into new filaments
+        1.   **Heterocysts **are cells specialized for nitrogen fixation. Also have a role in reproduction. When filaments break apart for reproduction heterocysts serve as breaking point.
+1.  The low-GC Gram-positives include the smallest cellular organisms
+    1.  Example from lecture is the **firmicutes**.
+    1.  Most are Gram-positive, but some are Gram-negative, and some have no cell walls. Monophyletic either way due to DNA sequence similarity.
+    1.  Some produce heat resisting structures called endospores. When nutrients are scarce, DNA replicates and puts one copy along with cytoplasm in a thick cell wall surrounded by spore coat. This replaces the cell and waits until nutrients come back, and then divides.
+    1.  Bacillus anthracis' dormant endospores secrete exotoxin that causes anthrax.
+    1.  C. botulinum produces botulinum neurotoxin, most toxic substance known.
+    1.  Staphylococcus (**staphylococci**) include low GC Gram-positives
+    1.  **Mycoplasmas **are some of the smallest cellular creatures known, even smaller than chlamydias. Diameter about .2 micrometers. May have minimum number of genes to encode a living cell.
+1.  The proteobacteria are a large and diverse group
+    1.  The largest group of bacteria in terms of species count is the **proteobacteria**.  
+    1.  Include Gram-negative, bacteriochlorophyll-containing, sulfur-using photoautotrophs.
+    1.  Metabolic pathways differentiate them. Common ancestor was a photoautotroph.
+    1.  Early in evolution two groups lost ability to photosynthesize and have been chemotrophs ever since. 
+    1.  Other three groups still have some photoautotrophs, but many have abandoned it and used other modes of nutrition.
+    1.  Include nitrogen fixing **rhixobium**. Also **E. coli**, which is part of the nitrogen cycle. Yersinia pestis (plague), Vibrio Cholerae (cholera) and Salmonella typhimurium (gastrointestinal disease) are all members.
+1.  Archaea differ in several important ways from bacteria
+    1.  Can live in extreme habitats with high salinity, low oxygen, high temperatures, or high or low pH. Many live in moderate environments though. Most live in oceans.
+    1.  Divided into two groups:
+        1.   **Euryarchaeota**
+            1.  **Methanogens:** obligate anaerobes reducing CO2 to give off methane. Produce 2 billion tons per year. Example: methanopyrus.
+            1.  **Strict halophiles:** salt lovers, lack chlorophyll but contains bacteriorhodopsin pigments. Example: halobacterium. Live in very alkaline enviroments pH 11.5. Can taint commercial seawater evaporating ponds in SF bay pink due to carotenoid pigments.
+            1.  **Thermoplasma **have no cell wall, aerobic. Very small genome, 1 million base pairs.
+        1.  ** Crenarchaeota**
+            1.  **Thermoacidophiles: **heat and acid lovers. Live in hot springs at 70-75 degrees C. pH 2-3. Example: sulfolobus.
+    1.  All archaea **lack peptidoglycan **in cell wall. 
+    1.  Have unusual lipids in membranes. Instead of fatty acids connected to glycerol by ester linkages, have hydrocarbons connected to glycerol by **ether linkages.** These are a **synapomorphy **of archaea.
+    1.  Also have lipids with one long chain with hydrophilic heads on both ends. This forms a lipid **monolayer** that acts like a bilayer. 
+    1.  Despite differences membranes in prokaryotes and eukaryotes have similar structures and functions.
+1.  There are also Korarcheota and Nanoarcheota but they are less well known.
+
+### Section 25.5: How Do Prokaryotes Affect Their Environments? {-}
+
+1.  Prokaryotes are important players in element cycling
+    1.  Many prokaryotes are decomposers. Break down organics into inorganics. Participate in the carbon cycle by giving off CO2, and returning nitrogen and sulfur to environment.
+    1.  Nitrifiers turn nitrogen into nitrite ions for plants, which give us nitrogen for amino acids. Denitrifiers convert the nitrite back to nitrogen gas continuing the cycle. 
+    1.  Bacteria and archaea also do a similar cycle with sulfur
+    1.  Cyanobacteria gave us oxygen atmosphere. Killed obligate anaerobes but led to cellular respiration and explosion of eukaryotic life.
+1.  Prokaryotes live on and in other organisms
+    1.  Cattle have bacteria which produce cellulase to break down cellulose in plants they eat.
+    1.  Humans use metabolic products (vitamins B12 and K) of bacteria living in our intestines.
+    1.  Biofilm in our intestines facilitates nutrient transfer from intestine into body and induces immunity to gut contents. Species composition of biofilm may be involved in obesity.
+    1.  Estimated to be 75 trillion to 200 trillion bacteria in us. 1000 different species.
+1.  A small minority of bacteria are pathogens
+    1.  Robert Koch developed four rules for seeing if a microorganism causes a disease (**Koch's postulates**):
+        1.   The microorganisms is always found in individuals with the disease.
+        1.   The microorganism can be taken from the host and grown in pure culture.
+        1.  A sample of the culture produces the same disease when injected into a new, healthy host.
+        1.   The newly infected host yields a new, pure culture of microorganisms identical to those obtained in the second step.
+    1.  **Helicobacter pylori **was discovered to be disease causing in this way in the 1990's.
+    1.  There are two types of bacterial toxins:
+        1.   **Exotoxins **ere usually soluble proteins. Are highly toxic. Include tetanus, cholera and plague. Antrax and botulism as well.
+        1.  ** Endotoxins **are released when certain Gram-negative bacteria grow or lyse. They are lipopolysaccharides that form part of the outer membrane. Rarely fatal and cause fever. Salmonella and Eschericia are examples.
+1.  Lithospheric bacteria live deep in the earth's crust and interact with inorganics in there. Huge populations of them.
+ 
+## Reading and Lecture Summary {-}
+

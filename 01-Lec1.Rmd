@@ -1,9 +1,792 @@
-# Lecture 1 {-}
+# Lecture 1: What is Life, Science? and Meiosis?  {-}
  
 ## Lecture {-}
 
 ...
 
-## Reading {-}
+## Ch 1 and 2.4 Outline {-}
 
----
+### Section 1.1 What is Biology? {-}
+
+1.  Organisms share many characteristics
+    1.  Here are some
+        1.  Consist of one or more cells
+        1.   Contain genetic information
+        1.   Use genetic information to reproduce themselves.
+        1.   Are genetically related and have evolved.
+        1.   Can convert molecules obtained from their environment into new biological molecules
+        1.   Can extract energy from the environment and use it to do biological work.
+        1.   Can regulate their internal environment
+    1.   Some exceptions to this: seeds, viruses
+    1.   This book explores how the characteristics vary and how they evolved through differential survival and reproduction
+1.  Cells are the basic unit of life
+    1.   Discovery was made possible by invention of microscope by **Hans and Zaccharias Janssen**
+    1.   **Van Leeuwenhoek** discovered single celled organisms. Also bacteria in his feces.
+    1.   **Hooke** discovered plants had repeating units he called cells.
+    1.   Schleiden and Schwann come up with **Cell Theory:**
+        1.  ** **Cells are the basic structural and physiological units of all living organisms.
+        1.   Cells are both distinct entities and building blocks of more complex organisms.
+        1.   All cells come from preexisting cells.
+        1.   All cells are similar in chemical composition.
+        1.   Most of the chemical reactions of life occur in aqueous solution within cells.
+        1.   Complete sets of genetic information are replicated and passed on during cell division.
+        1.   Viruses lack cellular structure but remain dependent on cellular organisms.
+    1.   Thought life emerged by **spontaneous generation.**
+    1.   Pasteur proved that life must be present in order for new life to be generated, by keeping broth in an open container and a closed container. Broth in the closed container did not grow microorganisms, broth exposed to air did, so microorganisms in air lead to life.
+1.   All of life shares common evolutionary history.
+    1.   **Evolution**: change in the genetic makeup of biological populations through time.
+        1.   Charles Darwin compiled evidence in _Origin of Species_
+        1.   Proposed important process that produces evolutionary change, **natural selection: **differential survival and reproduction among individuals in population.
+        1.   **species: **a group of organisms that can produce viable and fertile offspring with each-other.
+        1.   Darwin realized nature could select for traits to be passed on in animals just like humans can e.g. natural selection.
+    1.   How natural selection works: Organisms with a slightly higher probability of surviving have competitive edge that spreads the trait and makes it dominate after a few generations.
+    1.   **Adaptations**: structural, physiological or behavioral traits that enhance an organism's chances of survival and reproduction in its environment.
+    1.   Other mechanisms besides natural selection:
+        1.   **Genetic Drift: **random fluctuation of gene frequencies due to chance events.
+        1.   **Sexual selection: **selection due to mate choice preferences.
+    1.   What is source of information passed on when traits are inherited?
+1.  Biological information is contained in a genetic language common to all organisms.
+    1.   **genome: **contains information required for cell to function and interact with other cells - "blue-print" for existence. It is **sum total of DNA molecules.**
+    1.   **DNA molecule: **long sequence of four subunits called **nucleotides. **Sequence contains genetic information
+    1.   **Genes: **specific segments of DNA encoding information to make **proteins.**
+    1.  ** Proteins: **molecules that govern chemical reactions within cells and form organism's structure.
+    1.   If you were to write out genome using four letters for the four nucleotides, book would write more than **3 billion **letters.
+    1.   Different cells express different parts of the genome (turn on turn off genes).
+    1.   **Mutation: **change in genome. Spontaneous or outside factors like chemicals and radiation. Usually bad or neutral. Occasionally beneficial, which drives adaptations.
+1.  Cells use nutrients to supply energy and to build new structures.
+    1.   **nutrients: **acquired from environment. Supply organism with energy and materials for reactions. Reactions break down nutrients and energy contained in bonds is captured to do cellular work.
+    1.   **synthesis** is the most basic form of cellular work, builds new molecules from smaller units.
+    1.   Electrical work in brain and mechanical work in muscles are other kinds of work.
+    1.   sum total of all work is **metabolism **or **metabolic rate**
+1.  Living organisms regulate their internal environment.
+    1.   **Internal Environment** tissues and liquids that are not cells. Cells are **differentiated** to contribute to maintenance of internal environment. Depend on environment for essential services.
+    1.   **Tissues: **assembly of differentiated cells that form **organs** which accomplish specific tasks.
+    1.   **Organ system: **combination of organs that perform related tasks.
+1.  Living organisms interact with one another
+    1.   **Population: **Group of organisms of same species that interact**.**
+    1.  ** Community: **all populations that live in an area.
+    1.   Organisms can cooperate with each other. This led to evolution of social behaviors.
+    1.   Organisms compete, but also depend on each other.
+    1.   **Ecosystem:** group of communities interacting over broad geographic area with distinguishing features.
+1.  Discoveries in biology can be generalized.
+    1.   **Model systems: **representative organisms that we study and whose properties we generalize to other organisms because all organisms are genetically related and share similarities at a molecular and anatomical level
+
+### Section 1.2 How is All Life on Earth Related? {-}
+
+1.  All species share a **common ancestor.**
+    1.  ** **The more similar the species, the more recent their common ancestor, and vice versa.
+    1.   **Fossil record **helped infer evolutionary relationships using anatomical similarities.
+    1.   **Molecular methods** have been used to see history of genomes. Some genetic material has been got from fossils.
+1.  Life arose from non-life via chemical evolution
+    1.   Life arose **3.8 billion** years ago.
+    1.   Life needed complex stable molecules that can replicate to form reproducing cells. E.g. **DNA**.
+1.  Cellular structure evolved in the common ancestor of life.
+    1.   Need to enclose complex molecules by **membranes**
+    1.   **membranes **formed from fatlike molecules (lipids) that form spherical vesicles around molecules. This led to the first cells.
+    1.   For a long time only organisms were unicellular. These were **prokaryotes**. Consisted of DNA and other biochemicals in a membrane without a nucleus.
+    1.   Ocean shielded prokaryotes from ultraviolet light (was intensely shining because no oxygen in atmosphere for ozone).
+1.  Photosynthesis changed the course of evolution
+    1.   early prokaryotes used chemical energy from environment to move and do things.
+    1.   **Photosynthesis** evolved 2.7 billion years ago so cells could use energy from sun to make large molecules which can be broken down (metabolism).
+    1.   Photosynthetic cells produced oxygen which killed off all the prokaryotes except oxygen consuming ones
+    1.   **Aerobic metabolism** (uses oxygen) was used by these organisms and is better than **anaerobic metabolism** (does not use oxygen)
+    1.   Oxygen shielded atmosphere from UV allowing for life on land
+1.  Eukaryotic cells evolved from prokaryotes
+    1.   Cells evolved with distinct compartments, **organelles**
+    1.   The **nucleus **surrounds DNA and is the defining organelle of **eukaryotes.**
+    1.  ** mitochondria **and **chloroplasts** probably evolved from **endosymbiosis**, the consumption of prokaryotes by larger eukaryotes for more energy.
+1.  Multicellularity arose and cells became specialized.
+    1.   Some cells failed to cleave after cell division, and the cells built up inside the membrane.
+    1.   These cells specialized in different tasks. This was **cellular specialization.**
+1.  Biologists can trace the evolutionary tree of life.
+    1.   **Speciation** is the formation of new species by isolation, which leads to increasing differences between the isolated pops such that they can no longer mate with each other and produce new species.
+    1.   **Binomial** is the genus-species naming system. **Genus** is the common ancestor all the species share. 
+    1.   **Evolutionary tree** can be formed based on when populations split (branches for the splitting). Useful for comparing species.
+    1.   Genome sequencing and other molecular techniques allow **systematists, **scientists who study classification of life, to use alternative to fossils to document history. They compile this data into **phylogenetic trees**.
+    1.   Three major domains of life: Archea, Bacteria and Eukarya
+        1.   **Archea and Bacteria** are single celled prokaryotes, but differ vastly in metabolic processes, so split off early in history.
+        1.   **Eukarya **are multicellular and ingested prokarya to form organelles.
+    1.   Plants, Fungi and Animals evolved from **protists. **Protist that made plants was very different from one that made fungi and animals.
+1.  The tree of life is predictive. 
+    1.   Tree of life can be used to make predictions about new species based on location in tree.
+    1.   Example: Before phylogeny, pathogens were hard to isolate and identify. After, became easy to identify based on evolutionary relationships.
+
+### Section 2.4 What Makes Water So Important for Life? {-}
+
+1.  Water has a unique structure and special properties
+    1.   Water is **polar **and four pairs of electrons in outer shell repel to form **tetrahedral shape. **It can form **hydrogen bonds**. These properties allow for the following macroscopic characteristics:
+        1.   Ice floats.
+            1.   In ice each water molecule forms **4 bonds** with each other one, producing a rigid crystal structure. They are far apart so ice is less dense than liquid water. Molecules in liquid water form **3.4 bonds** with each other.
+            1.   If ice sinked in water, ponds would freeze from the bottom up. Ice floating allows a barrier with atmosphere and pond, letting organisms be warm underneath.
+        1.   Melting, freezing, and heat capacity.
+            1.   Ice needs a lot of heat energy to melt, because of high number of hydrogen bonds. Heat is released in freezing.
+            1.   This means liquid water has a lot of heat energy, e.g. high **heat capacity**
+            1.   **Specific heat **is amount of heat required to raise temp of 1 gram of substance by 1 degree C. Water has high specific heat due to hydrogen bonds.
+            1.   Water has high **heat of vaporization**. Needs a lot of heat to evaporate. Evaporation thus cools the environment.
+        1.   Cohesion and surface tension
+            1.   3.4 hydrogen bonds in liquid water account for **cohesion**, tendency of molecules to resist coming apart under tension. This allows movement up trees.
+            1.   **surface tension** is also caused by those bonds. Permits insects to walk on surface.
+1.  Water is an excellent solvent — the medium of life.
+    1.   **solution **is made when substance (**solute**) is dissolved in liquid (**solvent**). If solvent is water you have **aqueous solution**. **Polar **molecules are soluble in water. 
+    1.   Many reactions occur in aqueous solution. Biologists analyze these in two ways:
+        1.   **Qualitative analyses **find out what steps are in mechanism of reaction and identify the reactants.
+        1.   **Quantitative analyses **find concentrations of products and reactants formed.
+    1.   A **mole** is amount of substance in **grams** that is equal to molecular weight (mole of H2 is 2 grams).
+    1.   Avogadro's number: 6.02 x 10^23 molecules in a mole.
+    1.   Dissolving a mole of substance in 1L of solvent to make 1L of solution makes a 1 **molar** solution (m/L is molarity).
+    1.   Concentrations of molecules in cells are between 1 micro molar and 1 millimolar.
+1.  Aqueous solutions may be acidic or basic.
+    1.  **Acids **release hydrogen ions into solution, **bases **accept these ions.
+    1.  Strong acids have all their molecules donate H+ to solution. Weak acids leave some molecules protonated.
+    1.  Strong bases have all of their molecules get protonated. Weak bases have only some be protonated.
+    1.  Weak acid and base reactions are reversible.
+    1.  pH is the -log of the H+ concentration. 1M NaOH has an H+ concentration of 10^-14 M, or pH 14. Lower the pH, the higher the H+ concentration. pH7 has H+ concentration equal to OH-
+    1.  pH is important because proteins have charged groups that interact with water. If pH is very acidic, a negatively charged COO- is more likely to pair with H+, to become neutral, and be hydrophobic, changing the conformation of the protein. So pH is very important to structure.
+    1.  pH is regulated by buffers, mixtures of acids with conjugate bases that resist changes in pH.
+
+## Ch. 1.3 and 4 Outline {-}
+
+### Section 1.3 How Do Biologists Investigate Life? {-}
+
+1.   Observation is an important skill
+    1.   New technologies allow us to quantify evolutionary distance or fish behaviors.
+1.   The scientific method combines observation and logic
+    1.   The conceptual tool scientists use is the **scientific method** it has five steps:
+        1.   Making observations
+        1.   Asking questions
+        1.   forming hypotheses, or tentative answers to those questions
+        1.   making predictions based on the hypotheses
+        1.   testing the predictions with observations or experiments
+    1.   Scientists use induction from many observations to form a general hypothesis. Then they deduce predictions from that hypothesis.
+1.  Good experiments have the potential to falsify hypotheses
+    1.   In a **controlled experiments** a variable is changed in an experimental group and left unchanged in the control. Statistical tests are done to show changes are not just due to chance.
+    1.   **Comparative experiments** don't change variables, just compare data from different populations.
+1.  Statistical methods are essential scientific tools
+    1.   Need a way to show differences between groups are significant.
+    1.   A test of this starts with a **null hypothesis**, the hypothesis that there is no difference between groups. The probability of obtaining the results in your experiment given that the null hypothesis is true is the **probability of error** or the p-value.
+1.  Not all forms of inquiry are scientific 
+    1.   Scientific explanations have hypotheses that are testable and have the potential to be rejected and the results are repeated by many scientists. This is different from other methods of explanation.
+    1.   Religious explanations are not testable
+    1.   Science raises ethical questions that it alone cannot answer.
+
+### Chapter 4: NOT LISTED AS NECESSARY IN SYLLABUS {-}
+
+### Section 4.2 How and Where Did the Small Molecules of Life Originate? {-}
+
+1.   Experiments disproved spontaneous generation of life
+    1.   Redi disproved that macroscopic animals are spontaneously generated by covering a jar of meat and leaving one open. Maggots developed in the open one but not the covered one. Proving maggots came from organisms in the air.
+    1.   Pasteur disproved spontaneous generation of microscopic organisms by taking two flasks of boiled nutrients and leaving one open to air. Only open one grows microbes.
+1.  Life began in water
+    1.   Some think comets brought water to earth with nitrogen and other life components
+    1.  Chemical reactions took place in the water and around 3.8 billion years ago led to life.
+1.  Life may have come from outside earth.
+    1.  Meteorite fell in australia. Had amino acids and sugars. Scientists thought those chemicals weren't from earth because : 
+        1.  Used gloves to avoid contamination
+        1.  Amino acids were a mix of right and left handed, rather than just left handed
+        1.  Ratio of isotopes for carbon and hydrogen different from those on earth.
+    1.  Another space rock was found from mars, it had polycyclic aromatic hydrocarbons indicating life.
+    1.  Magnetic field could have protected life from heating on the meteorite.
+1.   Prebiotic synthesis experiments model the early earth
+    1.  **Hot Chemistry : **Early on, earth's atmosphere contained little hydrogen. Miller and Urey replicated this atmosphere of hydrogen, ammonia, methane and water vapor in a flask. They simulated lightening with an electric spark, and after cooling, organic compounds formed.
+    1.  **Cold Chemistry : **Cold water within ice was found by Miller to form organic molecules too. 
+
+### Section 4.1 What Are the Chemical Structures and Functions of Nucleic Acids? {-}
+
+1.  Nucleotides are the building blocks of nucleic acids
+    1.   Information flows from **DNA **to **RNA **to protein
+    1.   Nucleotides in DNA and RNA consist of a pentose sugar, a phosphate group and a nitrogen containing base. 
+    1.   **Bases **can be pyrimidines, six membered single rings, or purines, double rings. 
+    1.   In DNA the pentose sugar is deoxyribose, and in RNA it is ribose. Deoxyribose lacks one oxygen atom that ribose has.
+    1.   Nucleotides are joined by phosphodiester linkages. Phosphate groups link carbon 3 in one sugar to carbon 5 in the next sugar.
+    1.   RNA is single stranded. DNA is double stranded. The two strands run in opposite directions (antiparallel)
+1.  Base pairing occurs in both DNA and RNA
+    1.   Chart with purines on the left, pyrimidines on the right. Uracil replaces thymine in RNA.: 
+    ![An image of nucleotides](https://i.imgur.com/F5wYEnZ.png)
+    1.  RNA nucleotides are _ribonucleotides_ DNA nucleotides are _deoxyribonucleotides_
+    1.   A pairs with T (or U in RNA) and G pairs with C.
+1.  DNA carries information and is expressed through RNA
+    1.   Central Dogma of Molecular Biology:
+        1.  DNA can reproduce itself exactly. It is done by polymerization on a template.
+        1.  DNA can copy its information into RNA, in a process called transcription. The sequence in RNA can specify a sequence of amino acids in a polypeptide. This is called translation.
+    1.   Replication and transcription depend on complementary base pairing e.g. A with T or U.
+    1.   DNA replication copies the whole DNA but only small sections of DNA are transcribed into RNA.
+    1.   Genes are differently expressed in different cells.
+1.  The DNA base sequence reveals evolutionary relationships.
+    1.   Sequence homology between species suggests they are closely related in the evolutionary tree. We are highly related to chimps.
+1.  Nucleotides have other important roles
+    1.   ATP (adenosine triphosphate) provides energy in many reactions.
+    1.   GTP (guanosine triphosphate) provides energy in protein synthesis, and transfers information from environment to cells (signal transduction).
+    1.   cAMP (cyclic adenosine monophosphate) is a special nucleotide that is essential in actions of hormones and nervous system.
+
+## Ch. 5, 13, 14, and 11 Outline {-}
+
+### Chapter 5: NOT COVERED IN SYLLABUS {-}
+
+### Section 5.1: What Features Make Cells the Fundamental Units of Life? {-}
+
+1.  Introduction
+    1.  Three components of the cell theory:
+        1.   Cells are the fundamental units of life
+        1.   All living organisms are composed of cells
+        1.   All cells come from preexisting cells
+1.  Cell size is limited by surface area-to-volume ratio
+    1.  Cells are very small. In 1665, Robert Hooke looked at cork, and estimated 1,259,712,000 cells.
+    1.  Volumes of cells range from 1 to 1000 um^3 (cubic micrometers).
+    1.  Volume of cell (cell size) is limited by surface area-to-volume ratio. 
+        1.   Volume increases at a faster rate than surface area as cell grows
+        1.   This means more chemical reactions are going on, and more resources are needed to take into the cell, and excrete as waste, so more surface area is needed.
+1.  Microscopes reveal the features of cells
+    1.  Resolution is the minimum distance two objects can be apart and still be seen as two objects
+        1.   Human eye resolution: .2 mm (200 um)
+    1.  Microscopes increase resolution. They come in two types:
+        1.   Light microscopes: resolution about .2 micrometers. Glass lenses and visible light are used to form an image.
+        1.   Electron microscopes: resolution about 2 nm (.002 micrometers). Electromagnets are used to focus a beam of electrons in a vacuum. Cells must be dead in a vacuum, changing them slightly.
+    1.  Pathologists might use different microscope methods to examine tissues. Could stain the tissue and use bright field microscopy to bring out the shape or examine cell division, or stain the tissue with fluorescent dye to check for specific proteins that imply cancer.
+1.  The plasma membrane forms the outer surface of every cell
+    1.  Best observed with an electron microscope.
+    1.  Is composed of **phospholipid bilayer **with hydrophilic heads on opposite sides and hydrophobic tails in the middle, with transmembrane proteins in there as well. Proteins and lipids are in constant motion. 
+    1.  Forms **selectively permeable barrier** which blocks proteins and DNA but allows smaller molecules like oxygen through. Nonpolar molecules cross more easily than polar molecules (polar molecules are assisted with pump proteins).
+    1.  Maintains **homeostasis **of cell by regulating transport of substances into and out.
+    1.  Cell signaling and communication with other cells is mediated at the membrane.
+    1.  Has proteins that allow binding and adhering to adjacent cells.
+1.  All cells are classified as either prokaryotic or eukaryotic
+    1.  Archea and Bacteria are **prokaryotes**
+        1.   Lack membrane enclosed organelles
+        1.   Lack a nucleus
+    1.  **Eukaryotes **(true nucleus) evolved from prokaryotes. 
+        1.  ** **Contain membrane bound organelles like mitochondria where reactions occur
+        1.   Have DNA-containing nucleus
+ 
+### Section 5.2: What Features Characterize Prokaryotic Cells? {-}
+
+1.  Prokaryotic cells share certain features
+    1.  Can live on diverse energy sources. Thermophiles live in intense heat.
+    1.  Volume of a prokaryotic cell is generally 1/5 the volume of a eukaryotic cell
+    1.  Range from 1 to 10 micrometers.
+    1.  All prokaryotic cells have the same basic structure
+        1.   Plasma membrane
+        1.   **Nucleoid** region with DNA
+        1.    **Cytoplasm**
+            1.  The **cytosol **consists of water, proteins and ions.
+            1.  Complexes called **ribosomes **have RNA and protein and are 25 nm in diameter. They synthesize proteins.
+1.  Specialized features are found in some prokaryotes
+    1.  Some prokaryotes evolved special features:
+        1.   **Cell walls **contain peptidoglycan, a polymer of amino sugars. In some bacteria, an outer membrane (that is permeable to anything) encloses the cell wall. Further, in some bacteria a **capsule **encloses that membrane, it is a thick layer composed of polysaccharides, and is not essential to function.
+        1.   **Internal membranes **are required for photosynthesis. Some prokaryotes have folded membranes attached to the plasma membrane which may function in cell division or metabolism.
+        1.   **Flagella **are used to swim. Made of protein called flagellin. Motor protein is anchored to cell wall or plasma membrane.
+        1.   **Pili **are made of protein and project from surface, are hairlike and are used for adherence. Sex-pili allow bacteria to unite for sex. Fimbriae are similar but smaller, help adhere to surfaces.
+        1.   **Cytoskeletons **are usually present in rod-shaped bacteria. Helical filaments support shape of cell.
+ 
+### Section 5.3: What Features Characterize Eukaryotic Cells? {-}
+1.  Compartmentalization is the key to eukaryotic cell function
+    1.  Eukaryotes have membranous compartments called **organelles**. Each has a special role:
+        1.   The **nucleus **contains genetic material and replication happens here, as well as the first steps in gene expression.
+        1.   The **mitochondrion **converts energy stored in carbohydrates and fatty acids into ATP for energy.
+        1.   The **endoplasmic reticulum **and **Golgi apparatus **are compartments where ribosomes synthesize and process proteins.
+        1.   **Lysosomes **and **vacuoles **are digestive systems where large molecules are hydrolyzed into useful small ones.
+        1.   **Chloroplasts **perform photosynthesis in some protists and plants.
+    1.  The membrane around organelles has two roles. 
+        1.   Keeps molecules away from other molecules in cell to prevent wrong reactions
+        1.   Control traffic of raw material into cell.
+    1.  Other structures in cells that are not organelles because they lack membranes:
+        1.   **Ribosomes **are where protein synthesis takes place
+        1.   The **cytoskeleton **has structural and functional roles.
+        1.   The **extracellular matrix **has structural and functional roles.
+1.  Organelles can be studied by microscopy or isolated for chemical analysis
+    1.  **Cell fractionation **involves breaking the plasma membrane to release cytoplasmic components into test tube. Cell parts are separated on the basis of size or density. 
+    1.  Paired with microscopy this has revealed that many organelles appear similar across cell types.
+1.  Ribosomes are factories for protein synthesis
+    1.  Consist of **rRNA (ribosomal RNA)**.
+    1.  Have up to 50 protein molecules.
+    1.  Are found in: 
+        1.   The cytoplasm
+        1.   The surface of the endoplasmic reticulum
+        1.   In mitochondria and chloroplasts
+1.  The nucleus contains most of the genetic information
+    1.  Usually ~5 micrometers in diameter.
+    1.  Has several functions:
+        1.   Location of DNA and site of replication
+        1.   Site where gene transcription is turned on or off
+        1.   Nucleolus is where ribosomes are assembled from RNA and proteins
+    1.  **Nuclear envelope **is the two membranes that surround the nucleus.
+        1.  ** **Separates transcription from translation
+        1.   Information processing is regulated by letting molecules into nuclear pores each 9 nm in diameter.
+            1.  Eight protein complexes surround each pore, protein fibrils form a basketlike structure.
+            1.  Proteins can't get through without a sequence of amino acids called the **nuclear localization signal (NLS)**.
+                1.  If NLS is removed, protein can't get in
+                1.  If NLS is added, protein moves in.
+                1.  NLS binds to a receptor protein at the poor, and the protein goes into the nucleus.
+    1.  DNA is combined with protein in nucleus to form **chromatin**. 
+        1.   Prior to cell division chromatin is compacted and condensed so chromosomes are visual in microscope.
+        1.   Surrounding chromatin is **nucleoplasm**, dissolved water and solutes. **Nuclear matrix **helps organize chromatin.
+    1.  At the edge of the nucleus, chromatin is attached to **nuclear lamina **mesh. Made from **lamins**. Maintains shape of nucleus. Degrades with age causing nucleus to be unstable.
+    1.  During reproduction, nuclear envelope breaks into small membrane bound **vesicles**. Reforms after DNA is split into daughter cells.
+    1.  At certain sites nuclear envelope is continuous with the endoplasmic reticulum.
+1.  The endomembrane system is a group of interrelated organelles
+    1.  **Endomembrane system **includes:
+        1.  ** **Plasma membrane
+        1.   Nuclear envelope
+        1.   Endoplasmic reticulum
+            1.  Interconnected membranes forming tubes and flattened sacs. 
+            1.  Interior compartment is the lumen.
+            1.  Makes up 10 percent of the cell.
+            1.  Has two types:
+                1.  **Rough endoplasmic reticulum (RER): **Has ribosomes attached. Behaves this way:
+                    1.  RER receives synthesized proteins in its lumen. Transports these proteins to other parts of cell.
+                    1.  Inside lumen proteins can be modified and tagged for delivery to certain destinations.
+                    1.  Proteins are enclosed within vesicles that pinch off the ER to deliver them.
+                    1.  Most membrane-bound proteins are made in RER
+                    1.  In lumen, proteins form disulfide bridges and fold into tertiary structures.
+                    1.  Some proteins are linked to carbohydrate prosthetic groups. This is important in tagging the proteins for the lysosomes which are very destructive, so they don't get mixed up and destroy stuff.
+                1.  **Smooth endoplasmic reticulum **lacks ribosomes and is more tubular. Is continuous with RER. Has three important roles:
+                    1.  Modifies small molecules so they are more polar, and so more soluble and easily removed.
+                    1.  Site for glycogen degredation.
+                    1.  Site of lipid and steroid synthesis.
+            1.  Cells that do a lot of protein synthesis are packed with RER (glandular cells, white blood cells. 
+            1.  Cells that do less protein synthesis (storage cells) have less RER. Cells that modify toxins to leave the body in the liver have lots of SER.
+        1.   Golgi apparatus
+            1.  Consists of flattened membranous sacs called **cisternae** and small membrane enclosed vesicles.
+            1.  Is about 1 micrometer long.
+            1.  Has several roles: 
+                1.  Vesicles from the RER fuse with Golgi to enter it.
+                1.  Concentrates, packages and sorts proteins before they are delivered.
+                1.  Adds carbohydrates to proteins and modifies the carbs that were added in the ER.
+                1.  Is where some polysaccharides for the plant cell wall are made.
+            1.  In invertebrates, cisternae are individual units scattered in cytoplasm.
+            1.  In vertebrates, a few stacks form larger Golgi structure.
+            1.  Cisternae have three different regions:
+                1.  Cis region lies nearest the RER or nucleus
+                1.  Trans region lies closest to plasma membrane
+                1.  Medial region lies in between
+            1.  Vesicles bud through and out of the Golgi carrying proteins out after processing.
+        1.   Lysosomes (which come from the Golgi)
+            1.  **Primary lysosomes** come from the Golgi.
+            1.  1 micrometer in diameter.
+            1.  Sites for hydrolysis of food and other cells.
+                1.  First phagocytosis happens and cell eats food or other compounds.
+                1.  This forms compartment in cell called a phagosome.
+                1.  Phagosome is eaten by primary lysosome to form **secondary lysosome**. 
+                1.  Secondary lysosome digests food and releases products for use in metabolism to the cytoplasm.
+                1.  Releases undigested part by fusing to the plasma membrane.
+            1.  Lysosomes are important in autophagy, the killing of a cell by digesting its parts. 
+            1.  Tay-Sachs disease is caused by lysosomes not breaking down a lipid
+            1.  Plant cells do not have lysosome, but vacuole may act similar.
+        1.   Vesicles (droplets) move molecules through these membranes.
+1.  Some organelles transform energy
+    1.  In eukaryotes energy is transformed in mitochondria and chloroplasts
+    1.  In prokaryotes it is transformed by enzyme attached to inner surface of plasma membrane.
+    1.  Organelles that transform energy:
+        1.   **Mitochondria **process glucose after it has been partially broken down in the cytosol.
+            1.  Powerhouse of the cell.
+            1.   Produces ATP** **using fuel molecules and O2. This is **cellular respiration**.
+            1.   About 1.5 micrometers
+            1.   Cells that are active in movement and growth have the most mitochondria. Static cells have the least. 
+            1.  Can divide without nucleus.
+            1.   Has outer membrane which lets substances through and an inner membrane with regular folds into it, called cristae.
+            1.   Space enclosed by inner membrane is called **mitochondrial matrix** and contains ribosomes and DNA
+        1.   **Plastids **are present only in plants. Several types:
+            1.  **Chloroplasts** contain chlorophyll (green pigment) and engage in photosynthesis
+                1.  Internal membranes look like stacks of flat, hollow pita bread. Each stack is a **granum**. Consists of a series of compartments called **thylakoids**. Thylakoids are interconnected.
+                1.  Fluid that stores the grana is **stroma **which has ribosomes and DNA that synthesize proteins in the chloroplast.
+                1.  Animals contain photosynthetic organisms which they are in **symbiosis **with.
+            1.  **Chromoplasts **make and store yellow, red and orange pigments.
+            1.  **Leucoplasts **just store things and do not contain pigments. **Amyloplasts **are leucoplasts that store startch.
+1.  There are several other membrane-enclosed organelles
+    1.  **Peroxisomes **are small organelles (.2 to 1.7 micrometers) that have a single membrane containing specialized enzymes to break down toxin byproducts like peroxide.
+    1.  **Glyoxysomes **are similar and are found only in plants. Lipids are converted to carbohydrates here for transport to growing cells.
+    1.  **Vacuoles **occur in many cells, but plants have large ones with several functions:
+        1.  ** Storage**: store poisonous substances. Prevents predators from eating plants.
+        1.  ** Structure: **The vacuole swells with water due to the water wanting to solvate the solutes. This pushes the cell up against the cell wall, making it sturdy.
+        1.   **Reproduction**: some pigments in flowers are contained in vacuoles. These attract animals to pollinate
+        1.   **Digestion**: Vacuoles in seeds can hydrolyze stored proteins for food.
+        1.   **Contractile vacuoles** are found in many protists to prevent them from swelling with water. They spit water out through pores.
+1.  The cytoskeleton is important in cell structure and movement
+    1.  Electron microscopy has revealed a **cytoskeleton** which fills several roles:
+        1.   Supports cell and maintains shape
+        1.   Holds cell organelles in position
+        1.   Moves organelles within cell
+        1.   Is involved with movements of the cytoplasm (cytoplasmic streaming)
+        1.   Interacts with extracellular structures to anchor cell
+    1.  Has three components:
+        1.   **Microfilaments **are about 7nm in diameter:
+            1.  Have two major roles:
+                1.  Help entire cell or parts move
+                1.  Determine and stabilize cell shape
+            1.  Assembled from** actin** monomers with distinct ends called + and – which interact to form long chains.
+            1.  In muscle, actin filaments are associated with another protein, **myosin** which is the motor protein.
+            1.  Associated with pinching that divides a cell
+            1.  Form pseudopodia that allow cell to move
+            1.  Sometimes form a meshwork beneath plasma membrane that supports the cell (microvilli in human intestine is an example).
+        1.   **Intermediate filaments **include the fibrous proteins of the keratin family which make up hair and fingernails. Are tough, ropelike assemblies of 8 to 12 nm diameter. More common than two other types of filaments. 
+            1.  Have two functions:
+                1.  Anchor cell structures in place. Lamins of nuclear lamina are intermediate filaments.
+                1.  Resist tension, maintain rigidity by stretching through the cytoplasm and connecting membrane structures called desmosomes
+        1.   **Microtubules **are 25nm in diameter. 
+            1.  Have two functions: 
+                1.  Form rigid internal skeleton in some cells
+                1.  Act as a framework for motor proteins to move structures
+            1.  Made up of **tubulin.** 13 chains of it surround central cavity of tubule.
+            1.  Most radiate from region called the **microtubule organizing center**.
+            1.  Control the arrangement of cellulose fibers in plant cell walls.
+            1.  Serve as tracks for motor proteins and assist in cell division.
+    1.   **Cilia and Flagella **are movable appendages assembled from microtubules. Differ in length and pattern of beating.
+        1.   **Cilia **are numerous. Beat stiffly in one direction and recover quickly.
+        1.   Eukaryotic **flagella **are found singly or in pairs. Whip the water to move cell.
+        1.   Both typically contain a 9+2 arrangement of microtubules.
+        1.  ** Basal bodies** anchor the flagella and cilia.
+        1.  ** Centrioles **are like basal bodies. Involved in formation of mitotic spindle.
+    1.  **Motor proteins and movement: **movement of cilia and flagella is due to sliding of microtubule doublets past each other caused by **dynein**, a motor protein.
+        1.  ** **All motor proteins undergo reversible shape changes caused by ATP hydrolysis.
+        1.   **Kinesin **carries protein filled vesicles across cell. Binds to a vesicle and walks it along microtubule.
+    1.  **Demonstrating cytoskeleton functions: **To show that cytoskeleton parts function in a certain way, biologists must perform one of two tests:
+        1.  ** Inhibition** uses a drug that inhibits a cause A and sees if B still occurs. If it does not then A probably causes B.
+        1.  ** Mutation: **examine a cell that lacks the gene for A and see if B occurs. If it does not then A is probably causing B.
+
+### Section 5.4: What Are the Roles of Extracellular Structures? {-}
+1.  The plant cell wall is an extracellular structure
+    1.  The cell wall has three major functions:
+        1.   Provides support for cell and limits volume by remaining rigid.
+        1.   Acts as a barrier to infection by fungi and other organisms.
+        1.   Contributes to plant form by growing as cells expand.
+    1.  **Plasmodesmata** allow for transport of solutes between plant cells. Holes in cell wall.
+1.  The extracellular matrix supports tissue functions in animals
+    1.  Made up of fibrous proteins like collagen, a matrix of glycoproteins named proteoglycans, and a third group of proteins that link the fibrous proteins with the gel-like proteoglycan matrix.
+    1.  Has many functions:
+        1.   Holds cells together in tissues (adhesion).
+        1.   Contributes to physical properties of cartilage and skin.
+        1.   Helps filter materials passing between tissues (kidney).
+        1.   Helps orient cell movement in embryonic development and tissue repair.
+        1.   Interacts with proteins connecting plasma membrane to it, allowing cell signaling.
+
+### Section 5.5: How Did Eukaryotic Cells Originate? {-}
+
+1.  Internal membranes and the nuclear envelope probably came from the plasma membrane
+    1.  Compartmentalization is a major event in the history of life.
+    1.  Internal membranes of prokaryotes look like inward folds of the plasma membrane. 
+    1.  This suggests the ER and nucleus in eukaryotes had the same origin.
+    1.  This folding allowed several advantages for eukaryotic ancestors. Separation of biochemical reactions allows them to proceed more efficiently. Gene transcription could be separated from translation, providing more control of steps.
+1.  Some organelles arose by endosymbiosis
+    1.  **Symbiosis **means "living together". **Endosymbiosis **theory says organelles are remnants of organisms that were engulfed by the cell, gave most of their DNA to it, and retained some functions that help the cell out.
+    1.  Japanese scientists Okamoto and Inouye discovered a eukaryote, Hatena, that contains a large chloroplast. This organelle came from a green alga that had Golgi, mitochondria, cytoskeleton, along with a plastid. When Hatena ingested it all the structures and functions were lost except for photosynthesis.
+    1.  When Hatena divides, only one daughter cell gets the chloroplast. The other ingests another alga, replicating what happened during evolution.
+
+### Chapter 13 p. 267-286 {-}
+
+### Section 13.1: What Is the Evidence that the Gene is DNA? {-}
+
+1.  Introduction
+    1.  A dye was developed in the 20's that binds DNA and stained nuclei red in proportion to how much DNA they had.
+        1.   **It was in the right place: **DNA was confirmed to be an important component of the nucleus and chromosomes, which were known to carry genes.
+        1.   **It varied among species: **when cells from diff. species were stained, each species had own specific amount of DNA.
+        1.   **It was present in the right amounts: **DNA in somatic cells was twice that in somatic cells, e.g. diploid and haploid.
+    1.  But the proof that DNA is the genetic material came from two sets of experiments.
+1.  DNA from one type of bacterium genetically transforms another type.
+    1.  Griffith was working with two strains of pneumococcus in the 20's:
+        1.   **S strain **cells produced smooth (S) colonies. They were protected from the immune system by a capsule. When S cells are injected into mice, they kill them (virulent strain).
+        1.   **R strain **cells produced rough (R) colonies, which lacked the capsule and did not kill the mice.
+    1.  Griffith gave some mice heat-exposed (dead) S bacteria, which did not kill the mice.
+    1.  However, when he gave them a mix of R bacteria and heat-exposed S bacteria, the mice died.
+    1.  Some substance must have been transferred which changed the R cells. This was the **transforming principle**.
+1.  The transforming principle is DNA
+    1.  Avery, McCarty and McLeod treated different samples of S-strain with solvents that destroyed RNA, Proteins, and DNA. 
+    1.  The samples with destroyed DNA, when added to R strain, produced non-virulent bacteria. All the other samples produced virulent bacteria. Thus DNA is the transforming principle (maybe).
+1.  Viral replication experiments confirmed that DNA is the genetic material
+    1.  Hershey and Chase labeled the protein and the DNA of viruses to see which is transferred to the cell and is the genetic material.
+        1.   **Proteins contain some sulfur**: sulfer is not present in DNA. Hershey and Chase grew some viruses in the presence of sulfur radioisotope so that they protein coat was labelled. 
+        1.   **DNA contains phosphorus:** Phophorus is not present in most proteins. Hershey and Chase made another batch of viruses with the DNA labeled by a phosphorus isotope.
+    1.  After centrifugation of both viral mixes with bacteria in a centrifuge, most of the sulfur (and thus most of the viral protein labeled) stayed in the supernatant, whereas the phosphorus stayed in the pellet with the bacteria. Thus the DNA was responsible for the genetic change.
+1.  Eukaryotic cells can also be genetically transformed by DNA
+    1.  Genetic transformation of eukaryotes by DNA is **transfection**. Similar experiments to the Avery experiment were done on eukaryotes to show transfection can happen and organisms that are **transgenic **(transformed by transfection) can form.
+  
+### Section 13.2: What is the structure of DNA? {-}
+1.  The chemical composition of DNA was known
+    1.  Biochemists knew each DNA molecule contained one molecule of sugar (deoxyribose), a phosphate group, and a nitrogen containing base. The only differences between molecules are the bases:
+        1.   **Purines: Adenine and Guanine** (two rings)
+        1.  ** Pyrimidines: Cytosine and Thymine **(one ring)
+    1.  **Chagraff's rule: **A=T, G=C, and A+G total = T+C total. This showed DNA is complementary.
+1.  Watson and Crick described the double helix
+    1.  Rosalind Franklins crystallography convinced Watson and Crick that DNA must be **helical**.
+    1.  Modeling studies showed there are two strands that must be **antiparallel**.
+    1.  Watson and Crick suggested that:
+        1.   The **nucleotide bases** were on the **interior **while the **sugar-phosphate** backbone was on the **outside**.
+        1.   Purine is always paired with a pyrimidine (no other shape fits).
+1.  Four key features define DNA structure
+    1.  Four features summarize the structure:
+        1.   It is a **double-stranded helix** of uniform diameter
+        1.   It is **right-handed**.
+        1.   **Antiparallel**
+        1.  ** Major and minor grooves**.
+    1.  **The helix **
+        1.   **Adenine pairs with thymine** by forming **two **hydrogen bonds.
+        1.   **Guanine pairs with cytosine **by forming **three **hydrogen bonds.
+    1.  **Antiparallel strands**
+        1.   At one end of the molecule is a free phosphate group at the 5' end of the deoxyribose.
+        1.   At the other end is a free 3' hydroxyl group.
+    1.  **Base exposure in the grooves**
+        1.  ** **Proteins recognize specific base pair sequences and bind to them.
+1.  The double-helical structure of DNA is essential to its function
+    1.  Genetic material performs four functions
+        1.  ** Stores entire organism's genetic information**
+        1.   **Is susceptible to mutations**
+        1.   **Precisely replicated by complementary base pairing.**
+        1.  ** Genetic material is expressed as the phenotype**
+
+### Section 13.3: How is DNA Replicated? {-}
+
+1.  Three modes of DNA replication appeared possible
+    1.  New DNA molecules can be synthesized in a test tube containing the following substances:
+        1.   Deoxyribonulceoside triphosphates: dATP, dCTP, dGTP, dTTP
+        1.   A **DNA polymerase **enzyme that catalyzed the reaction.
+        1.   DNA which served as a template. 
+        1.   Salts and a pH buffer to create the right environment.
+    1.  Three possible replication patterns:
+        1.   Semiconservative replication: **each** parent strand serves as a template for a new strand, and the **two new molecules** each have **one old strand **and **one new strand**.
+        1.   Conservative replication: the original double helix serves as a template for the new double helix, but each of two new molecules has no old strands and two new strands.
+        1.   Dispersive replication: fragments of the original DNA molecule serve as templates for assembling two new molecules, each contains old and new parts randomly dispersed. 
+1.  An elegant experiment demonstrated that DNA replication is semiconservative
+    1.  Meselson and Stahl used heavy nitrogen (N15) to detect old versus new strands:
+        1.   One culture of bacteria was grown in medium with heavy nitrogen. All DNA in bacteria were heavy.
+        1.   Another culture was grown in regular medium, so all DNA was "light". 
+    1.  When DNA samples from both cultures were combined and centrifuged, two bands formed, because the two DNA sets had different densities.
+    1.  They then mixed the heavy bacteria in with the light bacteria, and took samples and centrifuged them every 20 minutes. The density gradient was different every generation:
+        1.   At the time of transfer to the light medium, the DNA had just heavy nitrogen, so there was one band with dense DNA.
+        1.   After one generation in the light medium, the DNA had been duplicated once. All the DNA was intermediate density.
+        1.   After two generations, there were two equally large bands: one of low density and the other of intermediate density.
+        1.   In later generations, the proportion of low density DNA (light DNA) decreased steadily.
+    1.  This can only be explained semiconservatively. In the first replication (one generation, step 2), each heavy strand acted as a template for a second light strand. Thus each double helix was half heavy, half light. Intermediate density. 
+    1.  In the second replication, step 3, the light strands created new light partners, and the heavy strands formed new light partners. Thus there were equal amounts of DNA with low density and equal amounts with intermediate. 
+    1.  The only way intermediate density could appear in later generations was if replication was semiconservative.
+        1.   If replication was conservative, the first generation would have both high density and low density DNA, but no intermediate density.
+        1.   If replication was dispersive, the density of new DNA would be intermediate, but DNA of this density would not appear later.
+1.  There are two steps in DNA replication
+    1.  Replication has two steps:
+        1.  The DNA helix is unwound to separate the two templates.
+        1.   As new nucleotides are added, they are linked by phosphodiester bonds, forming a complementary strand.
+    1.  DNA is added at the 3' end (because the bond is with the 5' phosphate). The other two phosphates in the triphosphate are broken.
+1.  DNA polymerases add nucleotides to the growing chain
+    1.  A **replication complex **consisting of four proteins binds to an **origin of replication (ori) **on the chromosome after recognizing a specific sequence.
+    1.  **DNA replication begins with a primer**
+        1.  ** **DNA polymerase cannot add new nucleotides without a starter strand of RNA. **Primase** makes this RNA strand.
+        1.   The RNA primer is degraded after the strand is completed, and DNA is added in its place. 
+        1.   The fragments are then connected by other enzymes.
+    1.  **DNA polymerases are large**
+        1.  ** **Polymerase is shaped like a right hand. Fingers wrap around DNA and thumb adds nucleotides.
+    1.  **Cells contain several different DNA polymerases**
+        1.   Only one kind of polymerase is responsible for DNA replication. The others are involved in primer removal and repair.
+        1.  In humans, replication polymerases are delta and epsilon.
+        1.   In bacteria, DNA polymerase III is the replicator.
+1.  Many other proteins assist with DNA polymerization
+    1.  **DNA helicase **uses ATP to bind to DNA and unwind it. 
+    1.  **Single-strand binding proteins **bind to the unwound strands to keep them from binding into a helix again.
+    1.  **The two DNA strands grow differently**
+        1.  ** **The **replication fork **is the site where the DNA is unwound in two.
+            1.  The **leading strand **is oriented so that it can grow at its 3' end as the fork opens up.
+            1.  The **lagging strand** has an exposed 3' end that gets farther and farther away from the fork, so an unreplicated gap is formed. A special mechanism fixes this.
+        1.   New DNA is added in fragments to lagging strand, called **okazaki fragments**. Grows in backward stretches with gaps.
+        1.   Each okazaki fragment needs its own primer.
+        1.   In bacteria, DNA polymerase III synthesizes the okazaki fragment after a primer is added by primase. 
+        1.  DNA polymerase I then removes the primer and adds DNA to replace it.
+        1.   **DNA ligase** then links the new strand to the fragment.
+        1.   Replication proceeds at 1000 base pairs per second.
+    1.  **A sliding clamp increases the rate of DNA replication**
+        1.  ** **Clamp binds to DNA and polymerase to keep it moving fast.
+    1.  **PCNA is the maestro of the replication fork**
+        1.  ** **The clamp is called the proliferating cell nuclear antigen (PCNA). 
+            1.  Orients polymerase for substrate binding
+            1.  Binds methylation enzymes and DNA repair enzymes
+            1.  Removes prereplication complex from ori.
+    1.  **DNA is threaded through a replication complex**
+        1.   The DNA is what moves through a stable replication complex bound to chromatin.
+    1.  **Small circular chromosomes replicate from a single origin**
+        1.   As the replication fork proceeds from this single origin, interlocking cDNA molecules are formed, and are separated by an enzyme called **DNA topoisomerase**.
+    1.  **Large linear chromosomes have many origins**
+        1.  ** **There are thus many replication forks in human DNA.
+1.  Telomeres are not fully replicated and are prone to repair
+    1.  There is always a bit of single stranded DNA at each end of the helix because a primer is removed and no DNA can replace it (need a 3' end to add to)
+    1.  Thus chromosome becomes shorter with each division.
+    1.  There are repeats at the ends of chromosomes called **telomeres**. These are TTAGGC copied many times. Signal proteins to not merge ends of DNA.
+    1.  Telomerase extends telomeres, keeping them from shortening and preventing the cell from dying. 
+    1.  Helps cancer cells divide.
+    1.  Helps with aging.
+
+### Chapter 14 {-}
+
+### Section 14.3: How is the information content in DNA transcribed to produce RNA? {-}
+
+1.  Introduction
+    1.  Transcription (formation of RNA from DNA) requires several components:
+        1.   A DNA template for complementary base pairing.
+        1.   The appropriate nucleoside triphosphates (ATP, GTP, CTP, and UTP).
+        1.   An RNA polymerase enzyme
+    1.  tRNAs and rRNAs are also produced by transcription.
+1.  RNA polymerases share common features
+    1.  RNA polymerases do not require a primer and do not have a proofreading function.
+1.  Transcription occurs in three steps.
+    1.  **Initiation **requires a promoter on the DNA, which the RNA polymerase recognizes and binds to. Eukaryotic genes have one promoter each, whereas prokaryotes and viruses have **operons **with one promoter controlling several genes.
+        1.  ** **They tell RNA polymerase where to start transcription and which strand to transcribe.
+        1.   Promoters have an **initiation site **where transcription begins.
+    1.  **Elongation **involves RNA polymerase unwinding the DNA about 10 base pairs at a time and reading the template 3' to 5'. Adds new nucleotides to 3' end without a primer.
+    1.  **Termination **is specified by a particular base sequence. For some genes the transcript just falls away from the DNA. For others a helper protein pulls it away.
+1.  The information for protein synthesis lies in the genetic code
+    1.  The code related codons (three base sequences) to amino acids.
+    1.  **Characteristics of the code**
+        1.   To discover which amino acid a codon represented, scientists used artificial mRNA with that codon, and tested various tRNAs with bout amino acids to see which bound to it. This is how they cracked the code.
+        1.   AUG is the **start codon**, the initiation signal for transcription.
+        1.   UAA, UAG, and UGA are **stop codons**, or termination signals for translation.
+    1.  **The genetic code is redundant but not ambiguous**
+        1.  ** **There is more than one codon that codes for each amino acid, but only one amino acid is coded for by each codon.
+    1.  **The genetic code is nearly universal**
+        1.   There are few exceptions to the genetic code.
+        1.   The non-template strand is the coding strand of DNA, and has the same sequence as the mRNA (with T's instead of U's). The template strand of DNA has a complementary sequence.
+
+### Chapter 11 {-}
+
+### Section 11.1: How Do Prokaryotic and Eukaryotic Cells Divide? {-}
+
+1.  Introduction 
+    1.  In order for a cell to divide, four events must occur:
+        1.   A reproductive signal is needed. It initiates cell division and can come from in or out of the cell.
+        1.   Replication of DNA must occur so each new cell has identical genes.
+        1.   The cell must distribute the replicated DNA to each new cell (segregation).
+        1.   New material must be added to the plasma membrane to perform **cytokinesis**.
+1.  Prokaryotes divide by binary fission
+    1.  **Reproductive signals **are sent by the environment to the bacteria. This is usually high nutrient concentration.
+    1.  **Replication of DNA **
+        1.  ** **Most prokaryotes have one chromosome, which is circular. 
+        1.   Two regions play functional roles in reproduction:
+            1.  ori: origin of replication.
+            1.  Ter: site were replication ends (terminus of replication).
+        1.   DNA is threaded through a replication complex near the center of the cell. 
+        1.   In rapidly dividing prokaryotes replication occupies the entire time between cell divisions.
+    1.  **Segregation of DNAs**
+        1.  ** **As replication proceeds, ori regions of chromosomes move toward opposite ends of the cell. Cytoskeleton may be involved in shuttling the DNA on a railroad track.
+    1.  **Cytokinesis** 
+        1.   The actual division is called cytokinesis and begins immediately after chromosome replication.
+        1.  First event is pinching of plasma membrane to form ring of fibers.
+        1.   As the membrane is pinched in, new cell wall materials are added.
+1.  Eukaryotic cells divide by mitosis or meiosis followed by cytokinesis
+    1.  Details of eukaryotic cell division are slightly different from those in prokaryotes:
+        1.   Signal: the signal for division of eukaryotes are based on needs of the organism, not environment. Most cells don't divide once specialized.
+        1.   Replication: Many chromosomes are involved. DNA replication is limited to the portions **between** cell divisions.
+        1.   Segregation: Newly replicated chromosomes are closely associated (**sister chromatids**). Mitosis segregates them into two new nuclei.
+        1.   Cytokinesis: Proceeds differently in plant cells (have cell wall) than in animals (no cell wall).
+    1.  Cells after mitosis are genetically identical.
+    1.  Cells after **meiosis **are not identical to parent cell. Have half the number of chromosomes.
+
+### Section 11.2: How is Eukaryotic Cell Division Controlled? {-}
+
+1.  Introduction
+    1.  Period between divisions is called **cell cycle**. It is divided into mitosis/cytokinesis and interphase.
+    1.  During **interphase** the nucleus is visible and typical functions occur. Replication as well.
+    1.  Interphase begins at cytokinesis and ends at mitosis.
+    1.  Interphase has three phases:
+        1.   G1 phase: During G1, chromosome is a single, unreplicated structure. Some cells have no G1, others remain in G1 for weeks. Sometimes they come out into a resting phase called G0, and come back to G1 later. 
+        1.   G1 to S transition: this is the **restriction point** (R). The commitment is made here to replicate and have a cell division.
+        1.   S phase: DNA replication occurs. Chromosomes replicate into two sister chromatids.
+        1.   G2 phase: Cell prepares for mitosis by synthesizing microtubules, and other proteins needed.
+1.  Specific signals trigger events in the cell cycle
+    1.  Progress in the cell cycle relies on **cyclin-dependent kinases** or Cdk's. Kinases phosphorylate proteins.
+    1.  Must be activated by binding to another protein, **cyclin**.
+    1.  The G1-S transition Cdk catalyzes the phosphorylation of retinoblastoma protein (RB). RB inhibits the R point. G1-S Cdk inhibits it, deactivating it, and letting the cell enter S phase.
+    1.  There are several checkpoints that check for DNA or toxin damage that prevent cell division. For DNA damage they are at:
+        1.   The restriction point (G1-S transition)
+        1.   During S phase
+        1.   After S phase during G2
+1.  Growth factors can stimulate cells to divide
+    1.  Some cells don't just divide all the time. They need to divide at specific points, so are signaled by their environment. These external signals are **growth factors.**
+    1.  Platelet derived growth factor for red blood cells and interleukins and erythropoietin are examples of growth factors.
+    1.  These activate signal transduction pathways that end with synthesis of **cyclin** activating Cdk's.
+
+### Section 11.3: What Happens during Mitosis? {-}
+
+1.  Prior to mitosis, eukaryotic DNA is packed into very compact chromosomes
+    1.  Complex of DNA and proteins is **chromatin**. 
+    1.  Sister chromatids are held together by **cohesion** throughout G2. But during mitosis, the cohesion is removed except at the **centromere** which attaches the two chromatids.
+    1.  **Histones **are positively charged at cellular pH, which attracts negative phosphates of DNA, this forms tight beadlike units called nucleosomes to help package the DNA.
+    1.  During interphase DNA is accessible to proteins for replication and transcription, but during mitosis it is condensed so these can't happen.
+1.  Overview: Mitosis segregates copies of genetic information
+    1.  Mitosis involves prophase, prometaphase, metaphase, anaphase, and telophase.
+1.  The centrosomes determine the plane of cell division
+    1.  Each centrosome determines the orientation of the mitotic spindle. It consists of two **centrioles**, each one a hollow tube formed by microtubules. These are perpendicular to each other.
+    1.  During S phase the centrosome doubles. The two centrosomes move toward opposite ends of the nuclear envelope. 
+    1.  These are flanked by tubulin dimers that form the microtubules. Plant cells lack centrosomes but this function is formed by microtubule organizing centers.
+1.  The spindle begins to form during prophase
+    1.  During prophase, each centrosome serves as a mitotic center, or pole, toward which the chromosomes move.
+    1.  Microtubules form between the poles and the chromosomes to make up the **spindle**. The spindle is finished **not** in prophase but in prometaphase.
+    1.  There are two types of microtubule in the spindle:
+        1.  Polar microtubules form the framework of the spindle, and run from one pole to the other.
+        1.   Kinetochore microtubules attach to the kinetochores on chromosomes. Each sister chromatid becomes attached to opposite kinetochore microtubules.
+1.  Chromosome separation and movement are highly organized
+    1.  Dramatic changes take place in the next three phases:
+        1.   **Prometaphase: **the nuclear envelope breaks down and the chromosomes attach to the kinetochore microtubules.
+        1.   **Metaphase: **The chromosomes line up at the midline of the cell (equatorial position).
+        1.   **Anaphase: **The chromatids separate and move away from each other toward the poles.
+    1.  **Chromatid separation**
+        1.   Separation of chromatids is at the beginning of **anaphase**. M-phase cyclin-Cdk controls this, and activates another protein called **anaphase-promoting complex (APC)**. 
+        1.   A protein called **separase **hydrolyzes cohesin at centromeres to separate the chromatids.
+    1.  **Chromosome movement**
+        1.   Migration of the chromosomes to the poles is mediated by:
+            1.  **Cytoplasmic dynein** which acts as a motor to move the chromosomes along microtubules toward poles. This is 75 percent of the force of motion.
+            1.  **Kinetochore microtubule shortening **from the poles, drawing chromosomes toward them, accounts for 25 percent of the force.
+        1.   **Telophase **occurs after the chromosomes have separated and is the last phase of mitosis. Nuclear envelope forms around each set of chromosomes, nucleoli appear, and the chromosomes become less compact. The spindle disappears. There are thus two new nuclei in the cell.
+1.  Cytokinesis is the division of the cytoplasm
+    1.  **Mitosis is only the division of the nucleus**.
+    1.  Cytokinesis is division of the actual cell. Occurs differently in different organisms.
+        1.   In **animals**, plasma membrane pinches and forms **contractile ring**. Microfilaments are doing the pinching.
+        1.   In **plant cells** membranous vesicles from the Golgi line up midway between the daughter nuclei. They fuse to form a new plasma membrane. They contribute contents to a **cell plate** which begins the new cell wall.
+    1.  After cytokinesis each daughter contains all components of a cell. Organelles are divided unevenly.
+
+### Section 11.4: What Role Does Cell Division Play in a Sexual Life Cycle? {-}
+
+1.  Asexual reproduction by mitosis results in genetic constancy
+    1.  Daughters are clones of the parent.
+    1.  Little genetic variation caused by mutations. Much less than in sexually reproducing organisms.
+1.  Sexual reproduction by meiosis results in genetic diversity.
+    1.  Meiosis produces gametes that differ genetically from each other and their parents. This results in offspring that have different adaptivity, resulting in genetic diversity.
+    1.  **Somatic cells **are not for reproduction. They have two sets of chromosome, which are found in pairs. One from each pair comes from one parent. In humans with 46 chromosomes, 23 come from dad and 23 from mom.
+    1.  The members of each **homologous pair **of chromosomes look the same, except for the sex chromosomes. The **homologs** bear corresponding, though not necessarily identical, genetic information.
+    1.  E.g. they can carry different alleles of the same gene (wrinkled, smooth).
+    1.  **Gametes **are sex cells and have only one set of chromosomes, one homolog from each pair. Number of chromosomes in a gamete is n. Gametes are **haploid**. 
+    1.  Two haploid gametes fuse to form a zygote in fertilization. 
+    1.  Zygote is 2n and **diploid**. Can undergo mitosis or meiosis.
+    1.  **A homolog from each pair **is selected **randomly **in meosis to make a haploid gamete, followed by fusion of these randomly made gametes. This provides for enormous genetic diversity. 
+1.  The number, shapes, and sizes of the metaphase chromosomes constitute the karyotype.
+    1.  A **karyotype **is made by taking pictures of homologous pairs (in diploid cells) during mitosis. Staining reveals banding patterns which distinguish chromosomes. 
+    1.  There is no relationship between the size of an organism and its chromosome count. A crap has 52 chromosome pairs and a horse 32.
+
+### Section 11.5: What Happens during Meiosis? {-}
+
+1.  The nucleus divides twice in meiosis but the DNA is replicated only once. The second division is just to separate the chromosomes from each pair.
+1.  Meiotic division reduces the chromosome number
+    1.  Meiosis consists of meiosis I and II. Two unique features are had by meiosis I:
+        1.   **Homologous chromosomes come together to pair** along their entire lengths, no such pairing occurs in mitosis
+        1.   **The homologous chromosome pairs separate **but the individual chromosomes, each having two sister chromatids, remain intact (the chromatids will separate in meiosis II).
+    1.  At the end of meiosis I two nuclei form, each with half of the original chromosomes.
+    1.  Sister chromatids are separated in meiosis II, which is not preceded by replication. Thus the four cells are haploid.
+1.  Chromatid exchanges during meiosis I generate genetic diversity
+    1.  Meiosis I begins with long prophase I. **Synapsis **adheres homologous pairs together.
+    1.  The four chromatids together are a **tetrad (bivalent).**
+    1.  Throughout prophase I and metaphase I, chromatin further coils and compacts. At a certain point, they start to pull apart, but are held at points called **chiasmata**.
+    1.  Each **chiasma **is a point of genetic exchange between non-homologous chromosomes. This is **crossing over**.
+    1.  Meiosis takes much longer than mitosis.
+1.  During meiosis homologous chromosomes separate by independent assortment
+    1.  In mitosis, homologs do not pair to form tetrads. All chromosomes with their sister chromatids line up at the metaphase plate.
+    1.  In meiosis I, chromosomes from mom pair with chromosomes from dad during synapsis. Separation of homologs halves the number of chromosomes in each daughter cell. 
+    1.  Some daughters will have more chromosomes from dad, others more from mom, depending on which side the dad chromosome or mom chromosome is on in the metaphase I plate. This is **independent assortment**. 
+    1.  The greater the number of chromosomes the less probable one cell will get all dad chromosomes or all mom chromosomes and not some mix. Thus daughters can be very different from parentals often.
+    1.  Meiosis I is very different from mitosis, but meiosis II is very similar to mitosis.
+1.  Meiotic errors lead to abnormal chromosome structures and numbers
+    1.  Homologous chromosomes in tetrads can fail to separate in metaphase I, so that the whole tetrad moves to one daughter nucleus. This is **nondisjunction** and it results in **aneuploid cells**.
+    1.  **Aneuploidy **is when one or more chromosomes are lacking or present in excess. 
+    1.  If meiosis is happening to form an egg, and chromosome 21 doesn't separate, one daughter will have two chromosome 21 copies (one from each parent), the other will have none. When a sperm fertilizes the one with two, the egg will be **trisomic **(three copies) for chromosome 21.
+    1.  This causes **Down syndrome**.
+    1.  If the daughter that did not receive the chromosome 21 pair is fertilized by a sperm, the zygote will have one copy of 21, it will be **monosomic**, which is lethal.
+    1.  **Translocation** is when a piece of a chromosome breaks off and attaches to another.
+1.  Polyploids have more than two complete sets of chromosomes
+    1.  Sometimes triploid (3n), tetraploid (4n) or higher **polyploid** nuclei can form. Each of these represents increase in chromosome number. 
+    1.  Even numbered sets of chromosomes (tetraploid and diploid) can undergo meiosis. But a triploid nucleus cannot. 
+    1.  Thus, trout with a triploid nucleus are sterile, which is good for lakes as they cannot reproduce in waters where they will be bad for ecology. 
+    1.  Polyploidy in plants can make them bigger.
+ 
+## Reading and Lecture Summary {-}
+

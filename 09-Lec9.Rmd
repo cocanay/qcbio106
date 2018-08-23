@@ -1,0 +1,21 @@
+# Lecture 9: The Evolution of Seed Plants {-}
+ 
+## Lecture {-}
+
+...
+
+## Ch. 28 Outline {-}
+
+### This is Chapter 29 in the 9th edition pg. 607-625 {-}
+
+1.  Seed plants: Gymnosperms (unprotected or **naked seeds)** and Angiosperms (**enclosed seeds**, "seeds in a vessel")
+1.  Seed plants arose in the **Devonian**, about 365 MYA then over the next 50 MYA an array of seed bearing plants evolved including the "coal-age plants" (conifers and cordaites).
+1.  What is an ovule? An **ovule** is surrounded by an integument with an opening at one end, the micropile. The **megaspore**, retained in the **megasporangium**, will give rise to the **megagametophyte **(female). After fertilization, the ovule matures into a seed, the unit of dispersal. The **pollen grain is the microgametophyte** (male).
+1.  Five living phyla are extant, the first four being grouped as Gymnosperms
+    1.  **Cycadophyta**: cycads, 11 genera (140 spp.), palm-like; pollen, which produce swimming sperm, and eggs are produced in separate strobili (which are cone-like structures, resembling the cones of conifers)
+    1.  **Ginkophyta**: one living species, Ginko biloba, see male specimens on campus on the quad near Jefferson Hall and observe females along the path leading out the gate across Kissena from Gino's. Swimming spermdevelop from the wind blown pollen.
+    1.  **Coniferophyta**: these are the conifers, numerous with 50 genera (550 spp.), the tallest and oldest living things. These are the most important of the gymnosperms, both numerically and ecologically (e.g., widespread stately northern forests). Leaves (many are needle-like) of modern conifers have drought-resistant features and many are retained throughout the year. Micro- (male, pollen producing) and mega-(female, egg producing) sporangia are born on separate strobili or cones. Gametophytes are highly reduced; a wind dispersed pollen grain is the male gametophyte that produces non-motile sperm (liquid water is not necessary for fertilization), and the female gametophyte is the egg in the Archegonia.
+    1.  **Gnetophyta** – 3 genera (70 spp.), conifers with several angiosperm-like features, small shrubs, trees or climbing vines. Some strange species, like Welwitschia mirabilis is found in the Namib Desert of southwestern Africa. A most bizarre plant.
+    1.  **Anthophyta (Angiospermae)** – the flowering plants or angiosperms (235,000 species), the oldest fossil is about 135 MYA. A primary feature of the angiosperm life cycle is the double fertilization, where one sperm fertilizes the egg to form a zygote, and the second sperm joins with the two polar nuclei to form the triploid endosperm, which is the food for the developing embryo. **A flower that contains both male and female components is called "perfect."**
+
+## Reading and Lecture Summary {-}

@@ -1,4 +1,4 @@
-# Lecture 2 {-}
+# Lecture 2: Inheritance, Genes, and Chromosomes {-}
  
 ## Lecture {-}
 

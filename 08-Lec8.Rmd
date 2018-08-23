@@ -1,0 +1,201 @@
+# Lecture 8: Plants without Seeds: From Water to Land {-}
+ 
+## Lecture {-}
+
+...
+
+## Ch. 27 Outline {-}
+
+### This is Chapter 28 in the 9th edition pg. 588-606 {-}
+
+### Section 27.1: How Did the Land Plants Arise? {-}
+
+1.  Introduction
+    1.  **Land plants **are **monophyletic**, they have a single common ancestor.
+    1.  A key synapomorphy (shared trait) of land plants is that they are **embryophytes, **they develop from an embryo protected by tissues of the parent plant. 
+    1.  "Plant" usually means land plant, but some scientists use it to refer to all **sterophytes**, which includes **Coleochaetales, Charales and Land Plants**. These are all green algae (**green plants**) because they all contain **chlorophyll b**. These are all within **plantae**, which includes all green algae, red algae, and glaucophytes
+
+![alt_text](https://i.imgur.com/w50owKM.png)
+
+1.  There are ten major groups of land plants ![alt_text](https://i.imgur.com/JBrwy9G.jpg)
+    1.  The **tracheophytes **are 7 clades of plants (gymnosperms include 4 clades, **cycads, gingko, gnetophytes **and **conifers**) which have **tracheids** which are fluid-conducting cells.
+    1.  The **nontracheophytes **are non-vacular land plants, they do not form a clade (lack a common trait like tracheids). 
+1.  The land plants arose from a green algal clade
+    1.  Closest relatives of the land plants are two aquatic **green algae**, the **coleochaetales **and the **charales**. Both of these groups retain eggs in the parental organism like land plants do. There are like land plants in the following ways:
+        1.   Structurally similar plastids and chloroplast DNA; photosynthetic pigments = chlorophylls a & b with the accessory pigment ß-carotene
+        1.   Energy reserves in the form of starch
+        1.    Similar cellulose cell walls produced by similar rosette-shaped structures with plasmodesmata
+        1.   Anti-photorespiration enzymes packaged in peroxisomes, in contrast to algae
+        1.   Similar structure of the flagellated sperm; growth is apical; thallus is haploid gametophyte
+        1.   Similar mitosis and structure of phragmoplasts during cell division; similar RNA and DNA sequences
+    1.  Charales exhibit branching growth found in most land plants, but coleochaetales exhibit flattened growth like basal land plants (liverworts).
+    1.  Examples:
+        1.   **Coleochaetales **includes the genus **_coleochaete, _**which have oogamous gametes (non motile egg, motile sperm). They **nurture **their zygotes and surround them with **sterile cells**. Their fossil record is of appropriate age for them to be plant ancestors.
+        1.   **Charales **include the genus **_chara _**which includes the species **chara vulgaris** (stonewort or skunkweed) which has three globules (male reproductive organs) and two mature nucules with one egg each.
+
+### Section 27.2: How Did Plants Colonize and Thrive on Land? {-}
+
+1.  Adaptations to life on land distinguish land plants from green algae
+    1.  Land plants appeared **400-500 million years ago**. 
+    1.  Land plants must overcome several problems after leaving water:
+        1.   How do they get water and retain it? 
+        1.   How do they disperse gametes and progeny?
+        1.   How do they support themselves against gravity?
+    1.  Adaptations to these problems distinguish the land plants from other green algae. Land plants have:
+        1.   A **cuticle**, a waxy covering that prevents water loss. This is the earliest adaptation
+        1.   **Stomata, **which are small, closeable openings in leaves and stems that regulate gas exchange (not present in liverworts).
+        1.  ** Gametangia**, multicellular organs that enclose plant gametes and prevent them from drying out.
+        1.   **Embryos, **young plants contained within a protective structure.
+        1.   Certain **pigments **that afford protection against the mutagenic ultraviolet radiation that bathes the terrestrial environment.
+        1.   Thick **spore walls **containing a polymer (called sporopollenin) that protects the spores from desiccation and resists decay.
+        1.   A **mutually beneficial association with a fungus **that promotes nutrient uptake from the soil. 
+1.  Nonvascular land plants usually live where water is readily available
+    1.  Some nonvascular land plants live on rocks and buildings. Can do this due to mutual relationship with fungi. 
+    1.  Lack leaves, stems, and roots, allow water to move through mats of plants by capillary action.
+    1.  Small size allows minerals to diffuse through body.
+    1.  They have a **cuticle**.
+    1.  Widely distributed.
+    1.  Layers of protective tissue for embryo sporopollenin.
+1.  Life cycles of land plants feature alteration of generations
+    1.  There are two hallmarks of **alteration of generations**:
+        1.   The life cycle includes both a multicellular diploid stage and a multicellular haploid stage
+        1.   Gametes are produced by mitosis, not be meiosis. Meiosis produces spores that develop into multicellular haploid organisms.
+    1.  We can start at the diploid zygote, which develops into a mature adult **sporophyte** diploid plant.
+    1.  In the **sporangia **of this plant, meiosis happens to produce haploid, unicellular spores. These spores reproduce by meiosis to form a multicellular haploid plant, the **gametophyte**. 
+    1.  The **gametophyte **produces **haploid gametes** by meiosis. 
+    1.  The fusion of gametes (**syngamy**) forms a single diploid cell, the **zygote**, repeating the cycle.
+    1.  The **sporophyte generation** is from the zygote to the adult diploid producing **sporangium**. 
+    1.  The **gametophyte generation **goes from the spore produced by the sporangium to the adult gametophyte and the **gametes**. The transitions are due to fertilization and meiosis.
+    1.  Plant evolution led to the reduction of the gametophyte generation. In **nonvascular, earlier** plants, the **gametophyte generation **is longer and the gametophyte is larger. In **later plants** in evolution the **sporophyte **generation is larger, and longer lived.
+    1.  In the seed plants evolution has resulted in water not being needed for sperm to reach egg.
+1.  The sporophytes of nonvascular land plants are dependent on the gametophytes
+    1.  The major form of the nonvascular plants is the gametophyte. The sporophyte grows off of it and gets its nutrients from it.
+    1.  Gametes form in gametophytes in the **gametangia**. 
+        1.   The **archegonium **is a multicellular female sex organ with a long neck and a swollen base which produces a **single **egg. 
+        1.   The **antheridium **is a male sex organ in which sperm, each with two flagella, are produced in large numbers. 
+    1.  Each individual gametophyte has female and male structures but fertilization often happens between adjacent plants to promote diversity. 
+    1.   Sperm must swim to the archaegonium through a raindrop or something else.
+    1.  The egg and sperm fuse to make a zygote. 
+    1.  The zygote turns into an embryo and is protected by a swelling archegonium. The developing sporophyte breaks out of the archegonium and produces a sporangium, producing haploid spores and the next gametophyte generation. 
+
+### Section 27.3: What Features Distinguish the Vascular Plants? {-}
+
+
+
+1.  Vascular tissues transport water and dissolved materials
+    1.  The nonvascular plants mostly decompose, not leaving a fossil record.
+    1.  The first plants with vascular tissue (fluid-conducting tracheid cells in the xylem) arose millions of years after the nonvascular plants.
+    1.  A **vascular system **transports materials from one part of the plant to the other. It has two types of tissues:
+        1.   The **xylem **conducts **water and minerals** from the soil to aerial parts of the plant. Cell walls of the xylem contain **lignin**, which stiffens and provides support against gravity. Has **tracheids **which conduct water through pits, and **vessel members** which conduct water through pores or bars.
+        1.   The **phloem **conducts the **products of photosynthesis** from sites where they are produced to storage sites. 
+    1.  Familiar vascular plants include the **club mosses (lycophytes, NOT mosses), ferns, conifers,** and **angiosperms**. 
+    1.  The clade of vascular plants started with a single common ancestor that evolved **tracheids**, the **principal water conducting element** of the **xylem**. All vascular plants have retained this system except angiosperms, which don't have tracheids in the xylem but have them in vessels and fibers derived from them. 
+    1.  Evolution of tracheids allowed two advantages:
+        1.   **Conduction of fluid** across the plant
+        1.   Stiff **support against gravity.**
+    1.  Vascular plants also have a **branching sporophyte. **It is **nutritionally independent** of the gametophyte. They are **sporophyte dominant**. 
+    1.  There are two types of plant life cycles. **Seed plants **have an embryo contained in a protective coat with a food source. **Seedless plants **like the **club mosses, whisk ferns** and **horsetails** do not have this kind of embryo. 
+1.  Vascular plants have been evolving for almost half a billion years
+    1.  The carboniferous period was dominated by lycophytes, horsetails, and tree ferns. Trees fell into swamps and the pressure and heat converted them to **coal**. 
+    1.  Later, in the ice age after the Permian, seed plants dominated, in the form of gymnosperms. They were replaced by angiosperms **65 million **years ago. 
+1.  The earliest vascular plants lacked roots and leaves (also were **seedless**).
+    1.  Extinct phyla of early seedless vascular plants include Rhyniophyta, Zostrephyllophyta and Trimerophytophyta. They died at the **end of the Devonian (360 MYA).**
+    1.  Existing living groups are the **club mosses (lycopodiophyta) **and **ferns, whiskferns **and **horntails (monilophyta)**. Monilophytes are more similar to seed plants than to lycophytes. 
+    1.  The earliest vascular plants were **rhyniophytes**. They were about half a meter tall. They:
+        1.   **Lacked roots** and were instead anchored by horizontal portions of stem, called **rhizomes**. These bore water absorbing unicellular filaments called **rhizoids**. 
+        1.   Rhizomes also had aerial branches and sporangia at the tips of those branches. 
+        1.   The branching pattern was **dichotomous**: the apex (tip) of the shoot divided to produce two equivalent new branches, each pair diverging at the same angle from the stem. 
+    1.  Rhyniophytes are now extinct.
+1.  The vascular plants branched out
+    1.  **Lycophytes (club mosses) **first appeared in the Silurian period. **Monilophytes (ferns and fernlike plants) **first appeared during the Devonian.
+    1.  They have **true roots, leaves **and **spore differentiation**. 
+    1.  Monilophytes and seed plants (not lycophytes) make up a clade called the **euphyllophytes**. A **synapomorphy **of this clade is **over-topping** which is where one branch differentiates from and grows beyond the others. This allowed them to take sunlight from their ancestors, the dichotomous growing rhiniophytes. 
+1.  Roots may have evolved from branches
+    1.  It's likely roots evolved from branches of a rhizome or from the stem which pierced into the ground, collecting nutrients and water and branching out. 
+    1.  Underground and aboveground branches differentiated due to different environments (root caps evolved to protect root tips from soil). Despite these differences scientists think they are **homologous** (evolved from the same body part). 
+1.  Monilophytes and seed plants have true leaves
+    1.  Leaves are flat, photosynthetic structures emerging laterally from a stem or branch and possessing true vascular tissue. They come in two types:
+        1.   The **microphyll **leaf is small and found in **lycophytes**. Likely evolved from sterile sporangia. Has a **vascular strand **that departs from the vascular system of the stem so that it is not disturbed. 
+        1.   **Megaphyll **leaves are large and more complex, and are found in monilophytes and seed plants. Thought to have evolved from dichotomous branches overlapping each other and forming photosynthetic tissue between each other. 
+    1.  It took 50 million years after the Devonian period for megaphylls to become common. The high concentration of CO2 in the Devonian reduced selection for tiny pores (stomata). As CO2 dropped later on, stomata were favored. 
+1.  Heterospory appeared among the vascular plants
+    1.  The vascular plants today that are very similar to their ancestors have a **homosporous** (single type of spore) life cycle, which has three characteristics:
+        1.   **independent sporophyte and gametophyte generation**, which are both photosynthetic and neither is dominant (symmetrical). 
+        1.   **Spores:** spores of the sporophyte are of a single type and turn into a **single type **of gametophyte with both male and female organs. 
+        1.   **Sex organs**: The female organ is an archegonium with a single egg and the male antheridium has many sperm. 
+    1.  Later on a system with two types of spores evolved. **Heterosporous **(two spores) plants have:
+        1.   **Independent **sporophyte and gametophyte generations.
+        1.   **Spores: **spores of the sporophyte develop in two distinct sporangia, the **microsporangium **and the **megasporangium**. The microsporangium develops **haploid** **microspores**, and the megasporangium develops **haploid megaspores**. The microspores develop into a **male macrogametophyte**, which produces only haploid sperm, and the megaspores develop into a **female megagametophyte **that produces only eggs.
+
+### Section 27.4: What Are the Major Clades of Seedless Plants? {-}
+
+
+
+1.  Liverworts may be the most ancient surviving plant clade.
+    1.  Three clades of land plants lack tracheids. These **nonvascular **land plants are the **liverworts, hornworts and mosses**. There are also four clades of seedless vascular plants: **lycophytes (club mosses and relatives), horsetails, whisk ferns, and leptosporangiate ferns.**
+    1.  Liverworts (hepatophyta) have leafy gametophytes. 
+        1.   One large chloroplast with pyrenoids like algae. Lack stomata but have pores.
+        1.   Sporophytes are shorter than those of mosses and hornworts. 
+        1.   **Marchantia **is an example. 
+        1.   Pores are **analogous **but **not **homologous. 
+        1.   Reproduces asexually **with gemmae** (lens shaped clubs of cells). 
+        1.   Heterosporous life cycle with elaters for spore dispersal on the mature sporophyte. 
+1.  Water and sugar-transport mechanisms emerged in the mosses
+    1.  **Mosses (byrophytes) and hornworts have stomata**. Stomata are a shared derived trait of mosses and all other land plants except liverworts. 
+        1.  ** **A mature stoma in mosses is in the capsule of the sporophyte. It has two nuclei and is a guard cell with a pore in the middle.
+    1.  Gametophyte has **protonema** anchoring it to ground.
+    1.  Have a cell called a **hydroid** which dies and leaves behind a channel for water. 
+    1.  It's like vascular tissue, but not true xylem or phloem
+    1.  To repeat, **mosses are NOT VASCULAR PLANTS**. They just have vascular like structures. 
+    1.  Life cycle is an alteration of generations with a dominant gametophyte and the sporophyte inside the archegonia of the gametophyte.
+    1.  **Peat** is layers of decomposing moss covered by living moss. 
+1.  Hornworts have distinctive chloroplasts and sporophytes without stalks
+    1.  **Anthrocerophyta** is another name for hornworts. 
+    1.  Two features distinguish them from liverworts and mosses, 
+        1.   Each cell contains a single platelike chloroplast (whereas liverworts and mosses have many small chloroplasts).
+        1.   Hornworts come closest to being able to grow without a set limit as sporophytes. No stalk, base can grow larger and larger. 
+    1.  They have **stoma** and the sporophyte forms a **tetrad** of spores. 
+    1.  The sporophyte has **elater-like** structures resembling those in liverworts.
+    1.  The diploid sporophyte grows inside the haploid gametophyte thallus (thallus resembles coleochaetales). 
+1.  Some vascular plants have vascular tissue but not seeds
+    1.  Earliest vascular plants have some species that survive to this day. They have a **dominant sporophyte **and a small gametophyte.
+    1.  Spores can "rest" for a while before developing.
+    1.  Fertilization is accomplished by swimming sperm, so must have an aqueous phase in life cycle. 
+    1.  **Leptosporangiate ferns **are the most abundant and diverse group of seedless vascular plants today. But club mosses and horsetails were once dominant. 
+    1.  **Two groups:**
+        1.  ** Lycopodiophyta**: the club mosses.
+        1.  ** Monilophyta: **ferns (leptosporangiates), whisk ferns, and horsetails. They are more similar to the seed plants than to lycophytes. 
+1.  The lycophytes are **sister to the other vascular** **plants**
+    1.  Have roots than branch **dichotomously**. Stems also branch dichotomously. 
+    1.  Sporangia of many club mosses are aggregated in cone-like **strobili**. These are clusters of spore bearing leaves inserted on a linear supporting structure.
+    1.  Life cycle can be:
+        1.   **Homosporous **as in **lycopodium** which has underground gametophytes which get nutrition from fungi in the soil. Has strobili cones.
+        1.   **Heterosporous** as in **Selaginella** which has strobili.
+    1.  A special type of coal consists exclusively of fossilized spores of the lycophyte **Lepidodendron**. 
+1.  Horsetails, whisk ferns, and ferns constitute a clade
+    1.  The **monilophytes **are "ferns and fern allies" and consist of ferns, horsetails, and whiskferns. "Ferns" are not a monophyletic clade. Most ferns do belong to a monophyletic clade called the **leptosporangiate ferns**, but other ferns are more closely related to horsetails or whiskferns.
+    1.  Ferns and their allies are more closely related to seed plants than to lycophytes based on megaphylly and inversion in the chloroplast DNA in seed plants and ferns.
+    1.  Characteristic is differentiation between main stem and side branches. This is different from dichotomous branching in lycophytes and rhyniophytes where each split gives rise to two similar branches. 
+    1.  Different members of the monilophytes:
+        1.   **Horsetails **are called "scouring rushes" because of silica deposits in their cell walls. 
+            1.  They have true roots that branch irregularly. 
+            1.  Large sporophyte and small gametophyte, both independent. 
+            1.  Were in maximal abundance in 300 MYA. Were very tall. Only one living genus **Equisetum**. 
+            1.  Grow progressively from bases on stem like hornworts. 
+        1.   **Whisk ferns** are rootless, spore-bearing plants. 
+            1.  **Psilotum** are seedless vascular species with two living genera. 
+            1.  **Psilotum nudum **is in professor's bathroom.
+            1.  **No roots or leaves. Has scales on stem**.
+            1.  Form small underground gametophytes with antheridia and archegonia where fertilization occurs and the sporophyte initially develops.
+            1.  Spores grow on sporangia on scales. 
+        1.   **Leptosporangiate ferns** have sporangia on a stalk with walls only one cell thick. The name comes from these thin sporangia.
+            1.  Have **true roots, stems and leaves**. 
+            1.  Life cycle: 
+            1.  **Spore mother cells **undergo meiosis to make haploid spores. 
+            1.  Spores float away and germinate to form independent gametophytes.
+            1.  Gametophytes can produce antheridia and archegonia. Sperm swim in water to the archegonia. Fertilize egg and the sporophyte sprouts a root and can grow independent of the gametophyte.
+            1.  Sporangia are found under leaves. Often they are found in clusters called **sori**. 
+            1.  Most ferns are **homosporous**, but two aquatic ferns (marsileaceae and salviniaceae) developed **heterospory. **
+
+
+## Reading and Lecture Summary {-}
