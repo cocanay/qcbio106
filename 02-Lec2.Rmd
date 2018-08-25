@@ -17,7 +17,7 @@ output:
 
 ## Lab 2: Data Analysis and Statistics {-}
 
-```{r echo=FALSE}
+```{r include=FALSE}
 #You'll want to uncomment and run the following command to install the listed packages for the code chunks in this lab to work. To do that just remove the hashtag at the front:
 
 #install.packages("plotrix","plotly","knitr")
@@ -55,7 +55,8 @@ p <- plot_ly(x = rnorm(30000,8,3), type = "histogram")  %>%
         )
 p
 ```
-This tip is the population **mean** (represented by the symbol $\mu$. It gives us a "normal" shell thickness for this population. It's a way of summarizing the wide range of thicknesses into one nice number. The population mean is an example of a **parameter** (another parameter you will learn about is the population **standard deviation** $\sigma$). It is something we want to know about a population but can't get because it's too difficult for us to collect. In order for Robin Seeley to have gotten it she would have needed to measure the thicknesses of 30,000 snails. 
+
+This tip is the population **mean** (represented by the symbol $\mu$). It gives us a "normal" shell thickness for this population. It's a way of summarizing the wide range of thicknesses into one nice number. The population mean is an example of a **parameter** (another parameter you will learn about is the population **standard deviation** $\sigma$). It is something we want to know about a population but can't get because it's too difficult for us to collect. In order for Robin Seeley to have gotten it she would have needed to measure the thicknesses of 30,000 snails. 
 
 Instead, we can take a small sample of a population, like the sample robin seeley collected, whose data is shown below: 
 
@@ -68,7 +69,7 @@ kable(snails_1871_display, col.names="Snail Thicknesses from Seeley's 1871 Data"
 
 And then get an average for it. Plotting the data:
 
-```{r echo= FALSE}
+```{r echo=FALSE}
 thicknesses <- c(5,8,1,9,4,8,8,8,11,3,9,8,7,8,5,8,8,13,9,10,9,5,2,8,7,5,9,8,8,5,11,12,8,3,3,5,9,8,6,7)
 snails_1871<-data.frame(thickness=thicknesses)
 p <- plot_ly(x = snails_1871$thickness, type = "histogram")  %>%
@@ -108,7 +109,7 @@ But we want to understand on average how different each snail is from the mean. 
   \frac{\sum (X_i - \bar{X})}{N}= \frac{(X_1 - \bar{X}) + (X_2 - \bar{X}) + ... + (X_{40} - \bar{X})}{N} = \frac{-2.2 + .8 + ... + -.2}{40} \approx 0
 \]
 
-```{r echo = FALSE}
+```{r include=FALSE}
 #This code computes the sum of differences from the mean
 total <- 0
 for (i in thicknesses) {
@@ -125,7 +126,7 @@ What's happening is that the positive differences, like the difference between s
   SS = \sum (X_i - \bar{X})^2 = 4.84 + .64 + ... + .04= 280.4
 \]
 
-```{r echo = FALSE}
+```{r include=FALSE}
 #This code computes the sum of squared differences from the mean
 total <- 0
 for (i in thicknesses) {
@@ -204,6 +205,6 @@ The standard error of the mean can be obtained by dividing the standard deviatio
 
 You can use the standard error to obtain a **confidence interval**, which is just a range of numbers which you can be a certain percentage confident (for our purposes, we'll use 95%) include the true population mean. We do this by using the student's t-table on page 33 of the manual and plugging into the formula on page 31. The confidence interval ranges from $\bar{X}-(t\times s_x)$ to $\bar{X}+(t\times s_x)$. 
 
-A handy rule of thumb is that t is around 2 for most sample sizes. In our sampling distribution above, $2\times s_x = $ is .85, and you can see that most of the data lies within .85 thickness units from the mean (8). So if your sample has this mean, it is within the a range of errors which would typically include the mean. 
+A handy rule of thumb is that $t$ is around 2 for most sample sizes. In our sampling distribution above, $2\times s_x = $ is .85, and you can see that most of the data lies within .85 thickness units from the mean (8). So if your sample has this mean, it is within the a range of errors which would typically include the mean. 
 
 The most important thing to notice about the t distribution is that as the **degrees of freedom** ($N-1$ or 1 less than your sample size) go up, the t value goes down no matter which confidence level you choose (95% uses a confidence level of .05, or 5%). That's because your sample is more representative of the general population the more random individuals it includes. This **smaller t-value means a narrower confidence interval**, meaning a more precise measurement of the mean. 
