@@ -790,3 +790,7 @@
  
 ## Reading and Lecture Summary {-}
 
+## Lab 1: Darwinian Snails and Evolution {-}
+
+In the darwinian snails lab, we'll use graphs (histograms, specifically) to see how a population of snails changes over generations.  
+

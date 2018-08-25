@@ -1,9 +1,209 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Lecture 2: Inheritance, Genes, and Chromosomes {-}
  
 ## Lecture {-}
 
 ...
 
-## Reading {-}
+## Ch. 12 Outline{-}
 
 ---
+
+## Reading and Lecture Summary {-}
+
+## Lab 2: Data Analysis and Statistics {-}
+
+```{r echo=FALSE}
+#You'll want to uncomment and run the following command to install the listed packages for the code chunks in this lab to work. To do that just remove the hashtag at the front:
+
+#install.packages("plotrix","plotly","knitr")
+```
+
+In last week's lab, you made **histograms** showing the evolution of shell thicknesses in a population of snails. Histograms are much more powerful than just being able to show useful trends. You can use them to infer things about a large group of individuals (a whole **population**) by only looking at a small group of them (a **sample**).
+
+Imagine we considered Robin Seeley's snails from Appledore island again. There were many snails on that island, probably thousands. Let's say there were 30,000 in all. If we plotted all of those snails on a histogram, we might get something that looks like this: 
+
+```{r echo=FALSE}
+#I made the standard deviation and mean in the rnorm function very close to that of the seeley sample 1871 data.
+library(plotly)
+p <- plot_ly(x = rnorm(30000,8,3), type = "histogram")  %>%
+      layout(  
+        title = "Population of Appledore Snails in 1871",
+        xaxis = list(title = "Shell Thickness (log)"),
+        yaxis = list(title = "Frequency")
+      )
+p
+```
+
+We see that this graph is fairly evenly spread out. If we overlay a bell curve on it, we can see that the tip is fairly close to the average thickness (8). 
+
+```{r echo=FALSE}
+fit = density(rnorm(1000000,8,3))
+p <- plot_ly(x = rnorm(30000,8,3), type = "histogram")  %>%
+      layout(
+        title = "Population of Appledore Snails in 1871",
+        xaxis = list(title = "Shell Thickness (log)"),
+        yaxis = list(title = "Frequency")
+      ) %>%
+      add_trace(x = fit$x, y = fit$y, mode = "lines",type="scatter", fill = "tozeroy", yaxis = "y2", name = "") %>% 
+      layout(
+        yaxis2 = list(overlaying = "y", side = "right",showticklabels=FALSE, showlegend=FALSE)
+        )
+p
+```
+This tip is the population **mean** (represented by the symbol $\mu$. It gives us a "normal" shell thickness for this population. It's a way of summarizing the wide range of thicknesses into one nice number. The population mean is an example of a **parameter** (another parameter you will learn about is the population **standard deviation** $\sigma$). It is something we want to know about a population but can't get because it's too difficult for us to collect. In order for Robin Seeley to have gotten it she would have needed to measure the thicknesses of 30,000 snails. 
+
+Instead, we can take a small sample of a population, like the sample robin seeley collected, whose data is shown below: 
+
+```{r echo=FALSE}
+library(knitr)
+thickness_string<- c("5    8    1     9      4     8     8     8     11     3    9    8    7    8     5     8     8     13    9     10      9     5      2      8      7     5     9     8     8     5     11      12      8      3      3     5     9     8     6     7")
+snails_1871_display<-data.frame(Snail_Thickness=thickness_string)
+kable(snails_1871_display, col.names="Snail Thicknesses from Seeley's 1871 Data")
+```
+
+And then get an average for it. Plotting the data:
+
+```{r echo= FALSE}
+thicknesses <- c(5,8,1,9,4,8,8,8,11,3,9,8,7,8,5,8,8,13,9,10,9,5,2,8,7,5,9,8,8,5,11,12,8,3,3,5,9,8,6,7)
+snails_1871<-data.frame(thickness=thicknesses)
+p <- plot_ly(x = snails_1871$thickness, type = "histogram")  %>%
+      layout(
+        title = "Seeley's Sample of 40 Appledore Snails in 1871",
+        xaxis = list(title = "Shell Thickness (log)"),
+        yaxis = list(title = "Frequency")
+      )
+p
+```
+
+We can see that this distribution isn't as normal as our population, but the average lies close to 8 (it's 7.2). So we can in fact take a small group of snails and say something significant about the whole population of 30,000 snails on appledore island! To find out how we can do this, we need to learn about what an average actually is, and about the **standard deviation**, a measure of hor spread out our data is. 
+
+### The Formulas for Average and Standard Deviation {-}
+
+An average is a sum of measurements divided by the total number of things measured. In your lab manual, this is represented by labeling each measurement $X_1$, $X_2$, and so on. So the thickness of one snail in our plot can be represented by $X_1$, a second snail $X_2$, all the way up to $X_{40}$ for the fortieth snail. If we add all these values up, and divide them by the number of snails ($N$) we get the **Sample Mean** $\bar{X}$:
+
+\[
+  \frac{X_1+X_2+X_3...X_{40}}{N} = \frac{5 + 8 + 1 + 9 + ... + 7}{40}= \bar{X} = 7.2
+\]
+
+Instead of writing all of those X's out, the book uses the symbol $\Sigma$ to represent summing all of them up, where i stands in for 1,2,3 in the X labels:
+
+\[
+   \frac{\sum X_i}{N} = \bar{X}
+\]
+
+We also want to know how much variation there is in our sample. That is, how different each of our snails is from the average (7.2). We can represent this by just taking the difference from the mean for each snail. Snail number 40 for instance has this difference:
+
+\[
+  X_{40} - \bar{X} = 7 - 7.2 = -.2
+\]
+
+But we want to understand on average how different each snail is from the mean. That is, how different is a typical shell thickness from the mean. We can get to this by adding up all the differences from the mean and dividing by the total number of differences (which is the same as $N$, the sample size of 40):
+
+\[
+  \frac{\sum (X_i - \bar{X})}{N}= \frac{(X_1 - \bar{X}) + (X_2 - \bar{X}) + ... + (X_{40} - \bar{X})}{N} = \frac{-2.2 + .8 + ... + -.2}{40} \approx 0
+\]
+
+```{r echo = FALSE}
+#This code computes the sum of differences from the mean
+total <- 0
+for (i in thicknesses) {
+  total <- total + (i - 7.2)
+}
+total
+```
+
+If we do this, we get a negative number very close to 0. But the average difference from the mean (the **sample standard deviation**) can't be a negative number, and it surely doesn't look like it's only .025. The graph is fairly spread out afterall. So what's going on?
+
+What's happening is that the positive differences, like the difference between snail #2 and the mean ($8-7.2 = .8$) are cancelling out the negative differences, like the difference between snail #40 and the mean shown above. To stop this, and get a representative difference, we need to make all the numbers positive. One way to do this is to take the absolute value of the differences. You might think this is a fairly straight forward way to do it, and it should be done this way, but statisticians are a weird bunch, and they decided to do it in the more roundabout way of using the fact that multiplying a number by itself (squaring it) always gives a positive number. We can square each difference then and *then* sum it up. This gives us a **sum of squares** $SS$:
+
+\[
+  SS = \sum (X_i - \bar{X})^2 = 4.84 + .64 + ... + .04= 280.4
+\]
+
+```{r echo = FALSE}
+#This code computes the sum of squared differences from the mean
+total <- 0
+for (i in thicknesses) {
+  total <- total + (i - mean(thicknesses))^2
+}
+total
+```
+Dividing this number by $N$ gives us an average squared difference of 7.01. We call this average squared difference the **sample variance**, represented by $s^2$:
+
+\[
+  \frac{SS}{N} = \frac{280.4}{40} = 7.01 = s^2
+\]
+
+But we don't want to know the average *squared* difference. That's far too big looking at the graph. To get the average difference we take the square root to go back to our original units of thickness. This, finally, is the **Sample Standard Deviation** $s$.
+
+\[
+  \sqrt{\frac{SS}{N}} = \sqrt{s^2} = \sqrt{7.01} = 2.65 = s
+\]
+
+For a normally distributed set of data, about 70 percent of the measurements should lie within 1 standard deviation of the mean. If we look again at our sample, we see that a lot of the thicknesses lie below 6.2 and above 8.2, so they are not within 1 standard deviation of the mean 7.2: 
+
+```{r echo=FALSE}
+p <- plot_ly(x = snails_1871$thickness, type = "histogram")  %>%
+      layout(
+        title = "Seeley's Sample of 40 Appledore Snails in 1871",
+        xaxis = list(title = "Shell Thickness (log)"),
+        yaxis = list(title = "Frequency")
+      )
+p
+```
+
+This means our sample is not normally distributed. There is a picture in your book of a normally distributed set of data (with the proportion of the data that lies within each standard deviation) on page 43: 
+
+![](https://i.imgur.com/6NLV9SH.jpg)
+
+We want to be able to use our sample standard deviation $s$ and our sample mean $\bar{X}$ to approximate the population standard deviation $\sigma$ and the population mean $\mu$ respectively. The reason we can do this is that if we have a big enough sample size, and we chose the individuals in our sample randomly, we know that the sample mean will be very close to the population mean (as will the standard deviation). We can compute how close with the **confidence interval** and **standard error of the mean** which we will cover shortly.
+
+### Why is the Sample Mean a Good Estimate of the Population Mean? {-}
+
+You **don't need to know this for the lab practical**, but it will help you understand what the **standard error of the mean** really is, which will help you understand the portion of the lab that covers the comparison of two different sample means. 
+
+Let's imagine Seeley took a new sample of 40 snails, each with different shell thicknesses from her original 40. Let's call the sample mean of the original sample $\bar{X_1} = 7.2$ and the sample mean of the new one $\bar{X_2} = 9$. Don't confuse these X's with the individual thicknesses of each snail now. These are the averages that summarize the whole sample. Finally let's imagine she took a third sample of 40 new snails and call the sample mean $\bar{X_3} = 9$, the same value as her second sample. We can plot these sample means on a histogram just like we can plot shell thicknessses: 
+
+```{r echo=FALSE}
+p <- plot_ly(x = c(7.2,9,9), type = "histogram")  %>%
+      layout(
+        title = "Three Samples of 40 Snails Each",
+        xaxis = list(title = "Average Sample Shell Thickness (log)"),
+        yaxis = list(title = "Frequency")
+      )
+p
+```
+
+The histogram looks really weird, but if Seeley takes more samples and plots more averages, it'll look more like a regular histogram. Let's say she takes 100 samples (each with 40 snails) and plots the averages. Then we'll get something that looks like this: 
+
+```{r echo=FALSE}
+library(plotrix)
+p <- plot_ly(x = rnorm(100,8,std.error(thicknesses)), type = "histogram")  %>%
+      layout(
+        title = "Three Samples of 40 Snails Each",
+        xaxis = list(title = "Average Sample Shell Thickness (log)"),
+        yaxis = list(title = "Frequency")
+      )
+p
+```
+
+It turns out that the mean of this **sampling distribution** (an average of sample averages) is very close to the population mean, and the standard deviation of it is the average difference between each sample mean and the population mean. In other words, it is a measure of the average error of the samples from the average. It is thus the **standard error of the mean** $s_x$. 
+
+### The Standard Error of the Mean and Confidence Intervals {-}
+
+The standard error of the mean can be obtained by dividing the standard deviation by the square root of the sample size: 
+
+\[
+  s_x = \frac{s}{\sqrt{N}}
+\]
+
+You can use the standard error to obtain a **confidence interval**, which is just a range of numbers which you can be a certain percentage confident (for our purposes, we'll use 95%) include the true population mean. We do this by using the student's t-table on page 33 of the manual and plugging into the formula on page 31. The confidence interval ranges from $\bar{X}-(t\times s_x)$ to $\bar{X}+(t\times s_x)$. 
+
+A handy rule of thumb is that t is around 2 for most sample sizes. In our sampling distribution above, $2\times s_x = $ is .85, and you can see that most of the data lies within .85 thickness units from the mean (8). So if your sample has this mean, it is within the a range of errors which would typically include the mean. 
+
+The most important thing to notice about the t distribution is that as the **degrees of freedom** ($N-1$ or 1 less than your sample size) go up, the t value goes down no matter which confidence level you choose (95% uses a confidence level of .05, or 5%). That's because your sample is more representative of the general population the more random individuals it includes. This **smaller t-value means a narrower confidence interval**, meaning a more precise measurement of the mean. 
