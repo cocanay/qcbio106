@@ -2,7 +2,47 @@
  
 ## Lecture {-}
 
-...
+```{r}
+# Code to install necessary packages. Uncomment to install.
+## try http:// if https:// URLs are not supported
+# source("https://bioconductor.org/biocLite.R")
+#biocLite("ggtree")
+#install.packages("ape")
+#install.packages("plotly")
+
+library(ape)
+library(ggtree)
+library(plotly)
+library(treeio)
+
+
+# CREATE A TREE -------------------------------------------------------------
+n_samples <- 20
+n_grp <- 4
+tree <- ape::rtree(n = n_samples)
+
+# CREATE SOME METADATA ----------------------------------------------------
+id <- tree$tip.label
+set.seed(42)
+grp <- sample(LETTERS[1:n_grp], size = n_samples, replace = T)
+dat <- tibble::tibble(id = id,
+                      grp = grp)
+
+# PLOT THE TREE -----------------------------------------------------------
+p1 <- ggtree(tree)
+
+metat <- p1$data %>%
+  dplyr::inner_join(dat, c('label' = 'id'))
+
+p2 <- p1 +
+  geom_point(data = metat,
+             aes(x = x,
+                 y = y,
+                 colour = grp,
+                 label = id))
+
+plotly::ggplotly(p2)
+```
 
 ## Ch. 20 and 21 Outline {-}
 

@@ -4,6 +4,45 @@
 
 ...
 
+## Ch. 24 Outline {-}
+
+### Investigating Life {-}
+
+1. When Giant Insects Ruled the Skies
+    
+    1. Dragonflies from 300 million years ago (MYA) like *Meganeuropsis permiana* had wingspans of more than 2 feet. These were the largest predators of their time.
+    
+    1. During the **Carboniferous** and **Permian** geological periods (350-250 MYA), many giant flying insect species existed. These were eaten by enormous ambphibians. Neither groups would be able to survive today because the **concentration of oxygen was much higher** back then, supporting larger organisms with more surface area. 
+    
+    1. Fossils of *Meganeuropsis permiana* have been found in Kansas. How can we date them or know about the oxygen contained in the atmosphere at the time? 
+    
+    1. Scientists have developed techniques that use decay rates (the time it takes for half of the sample to be depleted) of radioisotopes, ratios of certain chemicals in rocks, and changes in earth's magnetic field to guess events and conditions in the past accurately. 
+    
+    1. Earth is **4.5 billion years old**, and life is **3.8 billion years old**. Humans have been around for only .0003% of that time. 
+
+### Section 24.1: Events in Earth's History Can Be Dated {-}
+
+Media Clip 24.1 summarizing the major changes in the history of life on earth: 
+
+```{r echo=FALSE}
+knitr::include_url("http://content.jwplatform.com/players/B3S3nlg5-VWaoq3j4.html")
+```
+
+1. Introduction
+    
+    1. Some evolutionary changes can happen very rapidly, like plant and animal breeding and virus adaptation. However the appearance of new species and lineages happens over long **geological time scales**.
+    
+    1. To understand these changes, we have consider events and conditions very different from those observed today. Millions of years ago the continents were not where they are now, and climates were totally different from what they are now. We know this because it's recorded in rocks. 
+    
+    1. Nicolaus Steno realized that in undisturbed **sedimentary rocks**, the oldest layers of rock (**strata**) are at the bottom, and the higher strata are younger and younger. 
+    
+    1. Geologists thus developed stratiography, with the following principles: 
+        1. Fossils of similar organisms are found in widely separated places on earth
+        1. Certain fossils are always found in younger strata and certain fossils in older strata
+        1. Organisms found in younger strata are more similar to modern organisms than those in older strata
+    
+    1. But geologists could still not determine the ages of rocks
+
 ## Reading and Lecture Summary {-}
 
 ... 
