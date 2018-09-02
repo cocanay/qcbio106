@@ -18,7 +18,7 @@ output:
 ## Lab 2: Data Analysis and Statistics {-}
 
 ```{r include=FALSE}
-#You'll want to uncomment and run the following command to install the listed packages for the code chunks in this lab to work. To do that just remove the hashtag at the front:
+#You'll want to uncomment and run the following command to install the listed packages for #the code chunks in this lab to work. To do that just remove the hashtag at the front:
 
 #install.packages("plotrix","plotly","knitr")
 ```
